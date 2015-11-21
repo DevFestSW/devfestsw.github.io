@@ -22,7 +22,7 @@ siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
 organizerName: "GDG Lagos"
-organizerAlternateName: "Google Developer Group (Lagos, Unilag, Ibadan, Funnab)"
+organizerAlternateName: "Google Developer Group (Lagos, Unilag, Ibadan, Funnab, Bells)"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
 organizerEmail: "hello@devfestsw.gdg.ng"
 organizerLogo: "/img/seo/organizer-logo.png"
@@ -43,16 +43,16 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Schedule"}
+ # - {permalink: "/blog/", text: "Blog"}
+ # - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/team/", text: "Team"}
- - {permalink: "/logistics/", text: "Logistics"}
+ # - {permalink: "/team/", text: "Team"}
+ # - {permalink: "/logistics/", text: "Logistics"}
 
 bottomNavigationLinks:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://goo.gl/4wfz", text: "Register"}
 rightNavigationButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://goo.gl/4wfz", text: "Register"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -66,15 +66,15 @@ heroButtons:
 # About Block
 aboutTitle: "About GDG DevFest"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
+ - {title: "Conference", image: "developers.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
+ - {title: "Workshops", image: "developers-2.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "200", specialCharacter: "+", info: "attendees", detail: "from Lagos, Ibadan, Abeokuta and alot more"}
  - {count: "6", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "15", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
+ - {count: "15", specialCharacter: "+", info: "speakers", detail: "from around the country"}
  - {count: "4", specialCharacter: "", info: "parallel tracks", detail: "plus exhibition lounge"}
 
 # Latest News Block
@@ -132,12 +132,11 @@ footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
    - {link: "https://developers.google.com", text: "Google Developers"}
  -
   title: "Contacts"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+   - {link: "mailto:hello@devfestsw.gdg.ng", text: "hello@devfestsw.gdg.ng"}
  -
   title: "FAQ"
   links:
@@ -146,10 +145,10 @@ footerBlocks:
 # Blog
 blogTitle: "Latest news"
 blogCommentsEnabled: true
-discusShortName: "devfestua"
+discusShortName: "devfestse"
 
 # Speakers List Block
-showSessions: true
+showSessions: false
 
 # Team Block
 teamBlockTitle: "About us"

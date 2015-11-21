@@ -1,67 +1,187 @@
 - 
+  id: 1
+  name: "Zainab"
+  surname: "Aiyeleso"
+  company: "Konga"
+  title: "Software Engineering Lead"
+  bio: ""
+  thumbnailUrl: zainab.jpg
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "http://twitter.com/baniyaz"}
+- 
+  id: 2
+  name: "Ire"
+  surname: "Aderinokun"
+  company: "BigCabal, Zikoko"
+  title: "Designer"
+  bio: "My name is Ire Aderinokun and I am a UI/UX Designer and Front-End Developer. I currently work as Head of Product and Design at Big Cabal Media, publishers of Tech Cabal and Zikoko. I work on a number of different open-source side projects, from themes for the Ghost blogging platform, to apps for the Pebble smartwatch. I also write weekly articles about front-end development on my blog, bitsofcode."
+  thumbnailUrl: ire.jpg
+  rockstar: false
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+Ire/"}
+- 
   id: 3
-  name: "Dawid"
-  surname: "Ostrowski"
-  company: "Google Poland"
-  title: "Developer Relations Program Manager"
-  bio: "Dawid is true technology enthusiast, who loves to work in areas where humans and machines meet to create amazing new products and services. He is experienced program manager with strong technical background, who is able to establish priorities for complex projects and execute across multiple organizations, according to long-term objectives. Dawid has worked in Poland, USA, Germany, Belgium and The Netherlands and truly values diversity of international working environment. His most visible characteristics are individualization (when dealing directly with people), ideation&intellection (inexhaustible source of new concepts) and strong communication (experienced trainer, community manager). He is also an activator constantly impatient for action."
-  thumbnailUrl: DawidOstrowski.jpg
-  rockstar: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
-- 
-  id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  company: "Lemberg Solutions Limited"
-  title: "Android Developer"
-  bio: '<p>Developer. Nominated to apply for the <a href="http://goo.gl/V7qHc">Google Developer Expert Program</a>. Finalist of <a href="http://goo.gl/HO2kLf">Google Apps Developer Challenge 2012</a>. Author of open source <a href="http://goo.gl/Sp5Pel">libraries</a> 1000+ stars. Writer. When Dmytro has free time he is writing <a href="http://goo.gl/AoOVru">technical articles</a>. Speaker. Always trying to share his knowledge &amp; experience on different <a href="http://goo.gl/PNolZY">events</a>. Big fan of android, flat design, stackoverflow, git, Intellij IDEA. Eclipse IDE hater.</p>'
-  thumbnailUrl: DmytroDanylyk.jpg
-  rockstar: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
-- 
-  id: 5
-  name: "Mateusz"
-  surname: "Herych"
-  company: "Base CRM, GDG Krakow"
-  title: "Software Engineer"
-  bio: "Mateusz is an Android GDE and GDG organizer. Works as Android Developer for Base CRM where he uses his android-abracadabras to make enterprise software users more productive."
-  thumbnailUrl: MateuszHerych.jpg
+  name: "Femi"
+  surname: "Taiwo"
+  company: "INITS"
+  title: "CTO"
+  bio: ""
+  thumbnailUrl: dftaiwo.jpg
   rockstar: true
   ribbon: 
     - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
-    - {name: "twitter", link: "https://twitter.com/mherych"}
+    - {name: "google-plus", link: "https://plus.google.com/+FemiTaiwo/"}
+- 
+  id: 4
+  name: "Abiola"
+  surname: "Ibrahim"
+  company: "Konga"
+  title: "Software Engineer"
+  bio: 'Abiola is a Software Engineer at Konga and has been developing with range of technologies for about 7 years and has been using the Go Programming Language since its release in 2009.'
+  thumbnailUrl: abiosoft.jpg
+  rockstar: false
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+AbiolaIbrahim"}
+    - {name: "twitter", link: "https://twitter.com/abiosoft"}
+    - {name: "github", link: "https://github.com/abiosoft"}
+- 
+  id: 5
+  name: "Loknan"
+  surname: "Nanyak"
+  company: "Delivery Science, GDG Lagos"
+  title: "Software Engineer"
+  bio: ""
+  thumbnailUrl: nanyak.jpg
+  rockstar: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+NanyakLoknan"}
+    - {name: "twitter", link: "https://twitter.com/nanyak"}
 - 
   id: 6
-  name: "Roman"
-  surname: "Mazur"
-  company: "Stanfy, GDG Kyiv"
-  title: "Head of Android/Java Unit"
-  bio: "Roman started his way in Android 5 years ago and fall in love with this platform. Currently he is a head of Android unit in Stanfy LLC and a co-organizer of Kyiv Google Developers Group focusing on Android development. Roman is responsible for building a strong team of Android developers inside Stanfy as well as for organizing Android professionals community in Kyiv."
-  thumbnailUrl: RomanMazur.jpg
-  rockstar: true
+  name: "Tomiwa"
+  surname: "Ijaware"
+  company: "Konga, GDG Akure"
+  title: "Software Engineer"
+  bio: ""
+  thumbnailUrl: tommy.jpeg
+  rockstar: false
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
-    - {name: "twitter", link: "http://twitter.com/roman_mazur"}
+    - {name: "google-plus", link: "https://plus.google.com/+ijemiri/"}
+    - {name: "twitter", link: "http://twitter.com/ijemiri"}
 - 
   id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  company: "Twinfield, GDG Kyiv"
+  name: "Moyinoluwa"
+  surname: "Adeyemi"
+  company: "Swifta Systems, GDG Lagos"
   title: "Software engineer/country manager"
-  bio: "Valentyn focuses on Polymer and Web Components. In previous roles he’s helped craft design systems for massive enterprise companies, user interfaces for console titles, and even built the occasional enchanted princess game. These days his mission is to fight for a better web and to help developers build great experiences."
-  thumbnailUrl: ValentynShybanov.jpg
-  rockstar: true
+  bio: ""
+  thumbnailUrl: moyin.jpeg
+  rockstar: false
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    - {name: "google-plus", link: "https://google.com/+MoyinAdeyemi"}
+    - {name: "twitter", link: "http://twitter.com/moyinoluwaa"}
+- 
+  id: 8
+  name: "Oyewale"
+  surname: "Oyediran"
+  company: "Konga, GDG Lagos"
+  title: "Software Engineer"
+  bio: ""
+  thumbnailUrl: oyewale.jpg
+  rockstar: false
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  social: 
+    - {name: "google-plus", link: "https://google.com/+OyewaleOyediran"}
+    - {name: "twitter", link: "http://twitter.com/waleoyediran"}
+    - {name: "github", link: "https://github.com/waleoyediran"}
+    - {name: "site", link: "http://wale.oyediran.me"}
+- 
+  id: 9
+  name: "Kama"
+  surname: "Mishael"
+  company: "Masble, GDG Unilag"
+  title: "Founder"
+  bio: 'Web &Mobile Developer and Graphic Designer with a 4 year experience. Has a strong enthusiasm for technology and programming. Co-founder of "workarr Ng" & Organiser of "GDG Unilag".'
+  thumbnailUrl: kama.jpeg
+  rockstar: false
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  social: 
+    - {name: "google-plus", link: "https://google.com/+Kama"}
+- 
+  id: 10
+  name: "Gbolahan"
+  surname: "Alli"
+  company: "GDG Ibadan"
+  title: "Software Engineer"
+  bio: ""
+  thumbnailUrl: alli.jpg
+  rockstar: false
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  social: 
+    - {name: "google-plus", link: "https://google.com/+OyewaleOyediran"}
+    - {name: "twitter", link: "http://twitter.com/waleoyediran"}
+    - {name: "github", link: "https://github.com/waleoyediran"}
+    - {name: "site", link: "http://wale.oyediran.me"}
+- 
+  id: 11
+  name: "Charles"
+  surname: "Odili"
+  company: "Google"
+  title: "Developer Ecosystems Community Manager"
+  bio: "Hello there! I am Charles Odili from Lagos, Nigeria. With a background in Computer Engineering at the University of Benin, I quickly picked up deep interest in programming and have been coding since 2005. In 2007 I joined Xchequer, a Port HarCourt based startup, and lead the development of prototypes for an NFC payment system. Two years later (2009), I was back at the University of Benin as Web Developer /  Webmaster,  joining a team that revamped the Institutions websites and online presence, leading to several very impressive consecutive Webometric rankings in Africa and cool internal apps including Memoticks which I personally built with GWT/Errai. I am very passionate about technology and how it can serve to improve lives, thus I co-authored a book in 2012, started GDG Benin in 2014, and also helped kickstart startups. I am currently the Google Developer Ecosystems Community Manager for Google in Sub Saharan Africa."
+  thumbnailUrl: charles.jpg
+  rockstar: false
+- 
+  id: 12
+  name: "William"
+  surname: "Nwogbo"
+  company: ""
+  title: "Software Engineer"
+  bio: ""
+  thumbnailUrl: william.jpg
+  rockstar: false
+- 
+  id: 13
+  name: "Mayowa"
+  surname: "Adegeye"
+  company: "Konga"
+  title: "Software Engineer"
+  bio: "I am Adegeye Mayowa Joseph, a Computer Science graduate from the University of Ibadan (2014). I have worked in a few tech companies as a mobile applications developer majorly for Android and Blackberry platforms. Currently i am with Konga where i started out working on shopping app but have since moved to writing back end REST APIs for KongaPay. I am a lover of mathematics and Algorithms and i hope to one day get a PhD in Theoretical Computer Science. I play FIFA or just watch movies when i am not coding."
+  thumbnailUrl: mayor.jpeg
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "http://twitter.com/mayojava"}
+- 
+  id: 14
+  name: "Omolara"
+  surname: "Adejuwon"
+  company: "Grace InfoTech"
+  title: "Software Engineer"
+  bio: "Omolara is a software developer. She currently works at Grace InfoTech Limited where she has worked on several mobile applications. She recently picked up Data Analytics and Information Retrieval as her new interests among others. When she is not coding, she is adding more to her knowledge base. She tweets at @_larikraun"
+  thumbnailUrl: lara.jpeg
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "http://twitter.com/_larikraun"}
+- 
+  id: 13
+  name: "Efetuari"
+  surname: "Money"
+  company: ""
+  title: "Software Engineer"
+  bio: ""
+  thumbnailUrl: money.jpeg
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "http://twitter.com/efeturi"}
