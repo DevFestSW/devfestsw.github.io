@@ -50,9 +50,9 @@ navigationLinks:
  # - {permalink: "/logistics/", text: "Logistics"}
 
 bottomNavigationLinks:
- - {link: "https://goo.gl/4wfz", text: "Register"}
+ - {link: "https://goo.gl/bBebZE", text: "Register"}
 rightNavigationButtons:
- - {link: "https://goo.gl/4wfz", text: "Register"}
+ - {link: "https://goo.gl/bBebZE", text: "Register"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -61,7 +61,7 @@ eventDate: "November 28, 2015"
 typeoutTextValues: '"", "South-West", "Lagos", "Nigeria"'
 typeoutFallback: "Season"
 heroButtons:
- - {link: "https://goo.gl/4wfz", text: "Register"}
+ - {link: "https://goo.gl/bBebZE", text: "Register"}
 
 # About Block
 aboutTitle: "About GDG DevFest"
