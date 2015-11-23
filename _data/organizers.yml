@@ -1,11 +1,12 @@
 - 
-  group: "Main organizer"
+  group: "Host"
   elements: 
     - {name: "GDG Lagos", description: "GDG Lagos - Open and volunteer geek community", link: "http://lagos.gdg.ng", imageUrl: "gdg-lagos.svg"}
 - 
-  group: "Co-organizers"
+  group: "Organizers"
   elements: 
     - {name: "GDG Unilag", description: "GDG Unilag - Open and volunteer geek community", link: "http://unilag.gdg.ng", imageUrl: "gdg-unilag.svg"}
     - {name: "GDG Ibadan", description: "GDG Ibadan - Open and volunteer geek community", link: "http://ibadan.gdg.ng", imageUrl: "gdg-ibadan.svg"}
     - {name: "GDG Funaab", description: "GDG Funaab - Open and volunteer geek community", link: "http://funaab.gdg.ng", imageUrl: "gdg-funaab.svg"}
     - {name: "GDG Bells", description: "GDG Funaab - Open and volunteer geek community", link: "http://bells.gdg.ng", imageUrl: "gdg-bells.svg"}
+    - {name: "GDG Lagos", description: "GDG Lagos - Open and volunteer geek community", link: "http://lagos.gdg.ng", imageUrl: "gdg-lagos.svg"}

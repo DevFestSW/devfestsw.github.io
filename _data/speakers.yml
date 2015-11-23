@@ -40,7 +40,7 @@
   surname: "Ibrahim"
   company: "Konga"
   title: "Software Engineer"
-  bio: 'Abiola is a Software Engineer at Konga and has been developing with range of technologies for about 7 years and has been using the Go Programming Language since its release in 2009.'
+  bio: 'Abiola is a Software Engineer at Konga. He is experienced across the software development stack and has been developing with range of technologies for about 8 years. He loves Open Source and experimenting with new technologies. Abiola is an avid gamer when his keyboard is resting.'
   thumbnailUrl: abiosoft.jpg
   rockstar: false
   social: 
@@ -67,14 +67,15 @@
   surname: "Ijaware"
   company: "Konga, GDG Akure"
   title: "Software Engineer"
-  bio: ""
+  bio: "Not much is known about Tomiwa, however, information from our sources indicate that he is a software engineer that takes pride in creating software in the simplest of ways. To do this, he leans on the shoulders of open source giants using  their collective wisdom and conventions to guide design and development choices. During the day, he creates useful features for his customers and at night, he practises design thinking. There are rumours (though unconfirmed) of his interest in machine learning."
   thumbnailUrl: tommy.jpeg
   rockstar: false
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+ijemiri/"}
-    - {name: "twitter", link: "http://twitter.com/ijemiri"}
+    - {name: "google-plus", link: "https://plus.google.com/+TomiwaIjaware/"}
+    - {name: "twitter", link: "http://twitter.com/e911miri"}
+    - {name: "site", link: "http://tomiwa.xyz"}
 - 
   id: 7
   name: "Moyinoluwa"
@@ -147,11 +148,13 @@
   id: 12
   name: "William"
   surname: "Nwogbo"
-  company: ""
+  company: "INITS Ltd"
   title: "Software Engineer"
-  bio: ""
+  bio: "William Nwogbo is a software engineer at INITS Ltd, and has built quite a number of enterprise applications for businesses, he loves building solutions and solving technical problems, he would be showing you how to use SERVICE WORKERS. See you there."
   thumbnailUrl: william.jpg
   rockstar: false
+  social: 
+    - {name: "facebook", link: "https://web.facebook.com/william.nwogbo"}
 - 
   id: 13
   name: "Mayowa"
@@ -159,7 +162,7 @@
   company: "Konga"
   title: "Software Engineer"
   bio: "I am Adegeye Mayowa Joseph, a Computer Science graduate from the University of Ibadan (2014). I have worked in a few tech companies as a mobile applications developer majorly for Android and Blackberry platforms. Currently i am with Konga where i started out working on shopping app but have since moved to writing back end REST APIs for KongaPay. I am a lover of mathematics and Algorithms and i hope to one day get a PhD in Theoretical Computer Science. I play FIFA or just watch movies when i am not coding."
-  thumbnailUrl: mayor.jpeg
+  thumbnailUrl: mayor.jpg
   rockstar: false
   social: 
     - {name: "twitter", link: "http://twitter.com/mayojava"}
@@ -176,9 +179,9 @@
     - {name: "twitter", link: "http://twitter.com/_larikraun"}
 - 
   id: 13
-  name: "Efetuari"
+  name: "Efeturi"
   surname: "Money"
-  company: ""
+  company: "Hotels.ng"
   title: "Software Engineer"
   bio: ""
   thumbnailUrl: money.jpeg
