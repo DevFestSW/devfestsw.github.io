@@ -20,6 +20,8 @@
   rockstar: false
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+Ire/"}
+    - {name: "twitter", link: "http://twitter.com/ireaderinokun"}
+    - {name: "github", link: "http://github.com/ireade"}
 - 
   id: 3
   name: "Femi"
@@ -31,9 +33,11 @@
   rockstar: true
   ribbon: 
     - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/112227844855698647164/"}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+FemiTaiwo/"}
+    - {name: "twitter", link: "http://twitter.com/dftaiwo"}
+    - {name: "github", link: "http://github.com/dftaiwo"}
 - 
   id: 4
   name: "Abiola"
@@ -43,6 +47,8 @@
   bio: 'Abiola is a Software Engineer at Konga. He is experienced across the software development stack and has been developing with range of technologies for about 8 years. He loves Open Source and experimenting with new technologies. Abiola is an avid gamer when his keyboard is resting.'
   thumbnailUrl: abiosoft.jpg
   rockstar: false
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/109813433389926474050/"}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+AbiolaIbrahim"}
     - {name: "twitter", link: "https://twitter.com/abiosoft"}
@@ -53,14 +59,13 @@
   surname: "Nanyak"
   company: "Delivery Science, GDG Lagos"
   title: "Software Engineer"
-  bio: ""
+  bio: "A passionate Web applications developer, Linux user, Git enthusiast. Loknan enjoys creating awesome applications with cutting edge technologies and techniques while still having fun putting them to work on servers and cloud infrastructure. He has been building systems and working with software for about 7 years and has many more years of exciting tech goodness to experience."
   thumbnailUrl: nanyak.jpg
   rockstar: true
   ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/112227844855698647164/"}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+NanyakLoknan"}
-    - {name: "twitter", link: "https://twitter.com/nanyak"}
 - 
   id: 6
   name: "Tomiwa"
@@ -71,17 +76,29 @@
   thumbnailUrl: tommy.jpeg
   rockstar: false
   ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/113800801882072410635/"}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+TomiwaIjaware/"}
     - {name: "twitter", link: "http://twitter.com/e911miri"}
     - {name: "site", link: "http://tomiwa.xyz"}
 - 
+  id: 16
+  name: "Adewale"
+  surname: "Balogun"
+  company: "Konga, GDG Akure"
+  title: "Software Engineer"
+  bio: "Adewale is a self-taught full-stack developer and android advocate. With over 5 years experience developing native applications. He tries to take over the world one-line-of-code at a time. He’s driven by the obsessive need to make the world a better place one app at a time. In his spare time he enjoys playing and watching football, video games, and hanging-out with friends."
+  thumbnailUrl: adewale.jpg
+  rockstar: false
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+BalogunAdewale"}
+    - {name: "twitter", link: "http://twitter.com/whaleswallace"}
+- 
   id: 7
   name: "Moyinoluwa"
   surname: "Adeyemi"
   company: "Swifta Systems, GDG Lagos"
-  title: "Software engineer/country manager"
+  title: "Software engineer"
   bio: ""
   thumbnailUrl: moyin.jpeg
   rockstar: false
@@ -90,22 +107,6 @@
   social: 
     - {name: "google-plus", link: "https://google.com/+MoyinAdeyemi"}
     - {name: "twitter", link: "http://twitter.com/moyinoluwaa"}
-- 
-  id: 8
-  name: "Oyewale"
-  surname: "Oyediran"
-  company: "Konga, GDG Lagos"
-  title: "Software Engineer"
-  bio: ""
-  thumbnailUrl: oyewale.jpg
-  rockstar: false
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+OyewaleOyediran"}
-    - {name: "twitter", link: "http://twitter.com/waleoyediran"}
-    - {name: "github", link: "https://github.com/waleoyediran"}
-    - {name: "site", link: "http://wale.oyediran.me"}
 - 
   id: 9
   name: "Kama"
@@ -118,7 +119,7 @@
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+Kama"}
+    - {name: "google-plus", link: "https://google.com/+kamamishael"}
 - 
   id: 10
   name: "Gbolahan"
@@ -129,7 +130,7 @@
   thumbnailUrl: alli.jpg
   rockstar: false
   ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/114875347726232723618/"}
   social: 
     - {name: "google-plus", link: "https://google.com/+OyewaleOyediran"}
     - {name: "twitter", link: "http://twitter.com/waleoyediran"}
@@ -151,7 +152,7 @@
   company: "INITS Ltd"
   title: "Software Engineer"
   bio: "William Nwogbo is a software engineer at INITS Ltd, and has built quite a number of enterprise applications for businesses, he loves building solutions and solving technical problems, he would be showing you how to use SERVICE WORKERS. See you there."
-  thumbnailUrl: william.jpg
+  thumbnailUrl: william.jpeg
   rockstar: false
   social: 
     - {name: "facebook", link: "https://web.facebook.com/william.nwogbo"}
@@ -178,13 +179,31 @@
   social: 
     - {name: "twitter", link: "http://twitter.com/_larikraun"}
 - 
-  id: 13
+  id: 15
   name: "Efeturi"
   surname: "Money"
   company: "Hotels.ng"
   title: "Software Engineer"
-  bio: ""
-  thumbnailUrl: money.jpeg
+  bio: "I'm an Android developer and Electronics Engineer. I am usually looking through lines of source code in Android studio, but in my spare time I hack together arduino-based robotics at Afrimakers or play games. Tweet at me or send me a mesage on facebook and google plus."
+  thumbnailUrl: money.jpg
   rockstar: false
   social: 
-    - {name: "twitter", link: "http://twitter.com/efeturi"}
+    - {name: "twitter", link: "http://twitter.com/efemoney_"}
+    - {name: "facebook", link: "http://facebook.com/efemoney"}
+    - {name: "google-plus", link: "http://plus.google.com/u/0/+EfeturiMoney"}
+- 
+  id: 8
+  name: "Oyewale"
+  surname: "Oyediran"
+  company: "Konga, GDG Lagos"
+  title: "Software Engineer"
+  bio: ""
+  thumbnailUrl: oyewale.jpg
+  rockstar: false
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/112227844855698647164/"}
+  social: 
+    - {name: "google-plus", link: "https://google.com/+OyewaleOyediran"}
+    - {name: "twitter", link: "http://twitter.com/waleoyediran"}
+    - {name: "github", link: "https://github.com/waleoyediran"}
+    - {name: "site", link: "http://wale.oyediran.me"}
