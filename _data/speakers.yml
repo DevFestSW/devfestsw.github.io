@@ -124,18 +124,17 @@
   id: 10
   name: "Gbolahan"
   surname: "Alli"
-  company: "GDG Ibadan"
+  company: "Verspace Tech, GDG Ibadan"
   title: "Software Engineer"
-  bio: ""
+  bio: "Hi ! I am a software Engineer with an Electrical Electronics Engineering background. I love to solve big problems while learning new and interesting ways to solve old problems. I love good music and is very passionate about developing the Tech space in Nigeria and Africa."
   thumbnailUrl: alli.jpg
   rockstar: false
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/114875347726232723618/"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+OyewaleOyediran"}
-    - {name: "twitter", link: "http://twitter.com/waleoyediran"}
-    - {name: "github", link: "https://github.com/waleoyediran"}
-    - {name: "site", link: "http://wale.oyediran.me"}
+    - {name: "google-plus", link: "https://google.com/+AlliOmogbolahan"}
+    - {name: "twitter", link: "http://twitter.com/purple_heart_me"}
+    - {name: "github", link: "https://github.com/gbolly"}
 - 
   id: 11
   name: "Charles"
