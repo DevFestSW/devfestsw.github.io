@@ -1,59 +1,129 @@
 -
   id: 307
-  title: "Coffee Break"
+  title: "Arrival and Registration"
   place: "Hall"
   service: true
   description: "The best time to talk with speakers and attendees"
+-
+  id: 502
+  title: "Keynote Address (Android)"
+  place: "Dining room"
+  subtype: Keynote
+  place: "CCHub"
+-
+  id: 505
+  title: "Keynote Address (Cloud)"
+  place: "Dining room"
+  subtype: Keynote
+  place: "iDeaHub"
+  speakers: [3]
 -
   id: 503
   title: "Lunch Break"
   place: "Dining room"
   service: true
 -
+  id: 504
+  title: "Closing Address"
+  place: "Dining room"
+  service: true
+-
+  id: 506
+  title: "What next after DevFest?"
+  subtype: keynote
+  speakers: [11]
+-
   id: 001
-  title: "Material design: Visual style and imagery"
-  description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
+  title: "Introduction To Android Development"
+  description: "This section will cover the fundamentals of Android Development"
   subtype: workshop
-  speakers: [3, 6]
-  language: en
-  complexity: "Intermediate"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  speakers: [16]
+  place: "CCHub"
+  complexity: "Beginner"
 -
   id: 002
-  title: "Building Cloud-powered wearable Apps"
-  description: "I will speak and show how to:<br>- Respond to touch events in your views with touch feedback animations.<br>- Hide and show views with reveal effect animations.<br>- Switch between activities with custom activity transition animations.<br>- Create more natural animations with curved motion.<br>- Animate changes in one or more view properties with view state change animations.<br>- Create icon morphing transition"
-  subtype: presentation
-  speakers: [4, 5]
-  language: en
+  title: "Firebase (Android)"
+  description: "Building Real-Time applications with Firebase"
+  subtype: workshop
+  speakers: [7]
+  place: "CCHub"
   complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 003
-  title: "Android L Animation"
-  description: "More than ever before, developing for global audience is a necessity than a luxury in today's world. Are you ready ... where to start? what does it entail? how do I do it? how to promote in local markets? This talk will address above questions for android, chrome and web developers. In our journey of the where, what and how, we will take an in-depth look at various internationalization and localization tools & strategies available to you."
+  title: "Material Design"
+  description: "In-Depth Look at Material Design on Android"
   subtype: presentation
-  speakers: [4]
-  language: en
+  speakers: [15]
   complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
 -
   id: 004
-  title: "Polymer: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [6]
-  language: uk
+  title: "Location Services in Android"
+  description: "Introduction to Location-Services on Android"
+  subtype: presentation
+  speakers: [14]
   complexity: "Beginner"
-  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+
 -
   id: 005
-  title: "Test: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [7]
-  language: en
+  title: "Finding Success in the Play Store"
+  description: "The making of awesomely successful apps in the Play Store"
+  subtype: presentation
+  speakers: [1]
   complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 006
+  title: "Debugging in Android Studio"
+  description: "The art and science of Debugging apps in Android studio"
+  subtype: workshop
+  speakers: [13]
+  complexity: "Beginner"
+-
+  id: 007
+  title: "Event Driven Programming"
+  description: "De-mystifying Event-Driven Programming paradigm of Android development"
+  subtype: presentation
+  speakers: [8]
+  complexity: "Expert"
+-
+  id: 201
+  title: "Firebase (Web)"
+  description: "Building Real-Time web apps with Firebase"
+  subtype: workshop
+  speakers: [5]
+  complexity: "Intermediate"
+-
+  id: 202
+  title: "Using Chrome Developer tools"
+  description: "Getting more productivity out of Chrome Developer Tools"
+  subtype: workshop
+  speakers: [6]
+  complexity: "Beginner" 
+-
+  id: 203
+  title: "Service Workers"
+  description: ""
+  subtype: presentation
+  speakers: [12]
+  complexity: "Intermediate" 
+-
+  id: 204
+  title: "UI / UX"
+  description: "Building great user experiences on the web"
+  subtype: presentation
+  speakers: [2]
+  complexity: "Intermediate"
+-
+  id: 205
+  title: "Introduction to docker containers"
+  description: "Containers for better development/deployment"
+  subtype: presentation
+  speakers: [4]
+  complexity: "Expert"
+-
+  id: 206
+  title: "Using Material Design Lite"
+  description: ""
+  subtype: workshop
+  speakers: [9]
+  complexity: "Beginner"
+
