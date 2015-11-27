@@ -10,6 +10,7 @@
   place: "Dining room"
   subtype: Keynote
   place: "CCHub"
+  speakers: [17]
 -
   id: 505
   title: "Keynote Address (Cloud)"

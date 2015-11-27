@@ -23,6 +23,17 @@
     - {name: "twitter", link: "http://twitter.com/ireaderinokun"}
     - {name: "github", link: "http://github.com/ireade"}
 - 
+  id: 17
+  name: "Femi"
+  surname: "Longe"
+  company: "CcHub"
+  title: "Co-founder"
+  bio: ""
+  thumbnailUrl: femi-longe.png
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "http://twitter.com/femilonge"}
+- 
   id: 3
   name: "Femi"
   surname: "Taiwo"
@@ -61,7 +72,7 @@
   title: "Software Engineer"
   bio: "A passionate Web applications developer, Linux user, Git enthusiast. Loknan enjoys creating awesome applications with cutting edge technologies and techniques while still having fun putting them to work on servers and cloud infrastructure. He has been building systems and working with software for about 7 years and has many more years of exciting tech goodness to experience."
   thumbnailUrl: nanyak.jpg
-  rockstar: true
+  rockstar: false
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/112227844855698647164/"}
   social: 
