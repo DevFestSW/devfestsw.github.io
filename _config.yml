@@ -10,7 +10,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "DevFest SouthWest 2015"
+title: "DevFest SouthWest 2016"
 email: "hello@devfestsw.gdg.ng"
 description: "GDG DevFest is a set of events all around the world"
 baseurl: ""
@@ -22,7 +22,7 @@ siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
 organizerName: "GDG Lagos"
-organizerAlternateName: "Google Developer Group (Lagos, Unilag, Ibadan, Funnab, Bells)"
+organizerAlternateName: "Google Developer Group (Lagos, Unilag, Ibadan, Funnab, Lautech, OAU, Abeokuta )"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
 organizerEmail: "hello@devfestsw.gdg.ng"
 organizerLogo: "/img/seo/organizer-logo.png"
@@ -56,7 +56,7 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "GDG DevFest <typeout> 2015"
+heroTitle: "GDG DevFest <typeout> 2016"
 eventDate: "November 28, 2015"
 typeoutTextValues: '"", "South-West", "Lagos", "Nigeria"'
 typeoutFallback: "Season"
