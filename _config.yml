@@ -50,18 +50,18 @@ navigationLinks:
  # - {permalink: "/logistics/", text: "Logistics"}
 
 bottomNavigationLinks:
- - {link: "https://goo.gl/bBebZE", text: "Register"}
+ - {link: "http://bit.ly/2eFX9Z9", text: "Register"}
 rightNavigationButtons:
- - {link: "https://goo.gl/bBebZE", text: "Register"}
+ - {link: "http://bit.ly/2eFX9Z9", text: "Register"}
 
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "GDG DevFest <typeout> 2016"
-eventDate: "November 26, 2016"
+eventDate: "November 25, 2016"
 typeoutTextValues: '"", "South-West", "Lagos", "Nigeria"'
 typeoutFallback: "Season"
 heroButtons:
- - {link: "https://goo.gl/bBebZE", text: "Register"}
+ - {link: "http://bit.ly/2eFX9Z9", text: "Register"}
 
 # About Block
 aboutTitle: "About GDG DevFest"
@@ -88,18 +88,18 @@ rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "CcHub, iDeaHub"
+eventLocationName: "Ibis Hotel"
 eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
-eventStreetAddress: "293, Herbert Macauly way"
-eventAddressLocality: "Yaba"
+eventStreetAddress: "23 Toyin Street"
+eventAddressLocality: "Ikeja"
 eventAddressLocalityRegion: "Lagos"
 eventAddressCountry: "Nigeria"
-eventStartTime: "2015-11-28T10:00"
+eventStartTime: "2015-11-25T10:00"
 eventDoorTime: "10:00"
-eventEndTime: "2015-11-28T17:00"
-eventPlaceCoordinates: "6.504889, 3.377906"
-mapCenterCoordinates: "6.504889, 3.377906"
-mapMobileCenterCoordinates: "6.504889, 3.377906"
+eventEndTime: "2016-11-25T17:00"
+eventPlaceCoordinates: "6.5960522, 3.2811994"
+mapCenterCoordinates: "6.5960522, 3.2811994"
+mapMobileCenterCoordinates: "6.5960522, 3.2811994"
 
 # Venue Block
 venueBlockTitle: "Venue"
