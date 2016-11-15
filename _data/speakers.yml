@@ -6,7 +6,7 @@
   title: "Software Engineering Lead"
   bio: ""
   thumbnailUrl: zainab.jpg
-  rockstar: false
+  rockstar: true
   social: 
     - {name: "twitter", link: "http://twitter.com/baniyaz"}
 - 
@@ -30,7 +30,7 @@
   title: "Software Engineer"
   bio: "Chike is a Software Developer at Pacent Technologies, mostly focused on Android and PHP development. A technical writer at Tuts+, an Ex-Google Student Ambassador and an Ampion Global Alumnus. Love to swim and my interest includes startups, politics, clean codes, robots, and IOT."
   thumbnailUrl: chike.jpg
-  rockstar: true
+  rockstar: false
   social: 
     - {name: "twitter", link: "http://twitter.com/"}
 - 
@@ -67,7 +67,7 @@
   title: "Technical Writer"
   bio: "Prosper is a full stack software engineer and writer who’s worked on biometric, health, financial and developer tools. He currently works with Auth0 as a Technical Writer."
   thumbnailUrl: team-placeholder.jpg
-  rockstar: true
+  rockstar: false
   ribbon: 
     - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/people/prosper-otemuyiwa"}
   social: 
