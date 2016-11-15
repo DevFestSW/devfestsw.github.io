@@ -52,8 +52,8 @@
   surname: "Tchirou"
   company: "Andela"
   title: "Software Engineer"
-  bio: ''
-  thumbnailUrl: team-placeholder.jpg
+  bio: "I’m an iOS and Android engineer at Andela. I’m passionate about programming languages, their design and implementation (currently in love with Kotlin and Swift) and I’m in a perpetual quest to find simpler and better ways to build reliable and performant software to solve real world problems and impact people lives."
+  thumbnailUrl: Faical.jpg
   rockstar: false
   social: 
     - {name: "google-plus", link: "https://plus.google.com/"}
