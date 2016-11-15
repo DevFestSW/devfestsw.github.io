@@ -9,7 +9,7 @@
   title: "Keynote Address (Android)"
   place: "COMING SOON"
   subtype: Keynote
-  speakers: [17]
+  speakers: [1]
 -
   id: 505
   title: "Keynote Address (Web)"
@@ -94,47 +94,47 @@
   subtype: presentation
   speakers: [9]
   complexity: "Intermediate"
-  
--
-  id: 201
-  title: "Firebase (Web)"
-  description: "Building Real-Time web apps with Firebase"
-  subtype: workshop
-  speakers: [5]
-  complexity: "Intermediate"
--
-  id: 202
-  title: "Using Chrome Developer tools"
-  description: "Getting more productivity out of Chrome Developer Tools"
-  subtype: workshop
-  speakers: [6]
-  complexity: "Beginner" 
--
-  id: 203
-  title: "Service Workers"
-  description: ""
-  subtype: presentation
-  speakers: [12]
-  complexity: "Intermediate" 
--
-  id: 204
-  title: "UI / UX"
-  description: "Building great user experiences on the web"
-  subtype: presentation
-  speakers: [2]
-  complexity: "Intermediate"
--
-  id: 205
-  title: "Introduction to docker containers"
-  description: "Containers for better development/deployment"
-  subtype: presentation
-  speakers: [4]
-  complexity: "Expert"
--
-  id: 206
-  title: "Using Material Design Lite"
-  description: ""
-  subtype: workshop
-  speakers: [9]
-  complexity: "Beginner"
+
+#-
+#  id: 201
+#  title: "Firebase (Web)"
+#  description: "Building Real-Time web apps with Firebase"
+#  subtype: workshop
+#  speakers: [5]
+#  complexity: "Intermediate"
+#-
+#  id: 202
+#  title: "Using Chrome Developer tools"
+#  description: "Getting more productivity out of Chrome Developer Tools"
+#  subtype: workshop
+#  speakers: [6]
+#  complexity: "Beginner" 
+#-
+#  id: 203
+#  title: "Service Workers"
+#  description: ""
+#  subtype: presentation
+#  speakers: [12]
+#  complexity: "Intermediate" 
+#-
+#  id: 204
+#  title: "UI / UX"
+#  description: "Building great user experiences on the web"
+#  subtype: presentation
+#  speakers: [2]
+#  complexity: "Intermediate"
+#-
+#  id: 205
+#  title: "Introduction to docker containers"
+#  description: "Containers for better development/deployment"
+#  subtype: presentation
+#  speakers: [4]
+#  complexity: "Expert"
+#-
+#  id: 206
+#  title: "Using Material Design Lite"
+#  description: ""
+#  subtype: workshop
+#  speakers: [9]
+#  complexity: "Beginner"
 

@@ -53,7 +53,7 @@
   company: "Andela"
   title: "Software Engineer"
   bio: ''
-  thumbnailUrl: abiosoft.jpg
+  thumbnailUrl: team-placeholder.jpg
   rockstar: false
   social: 
     - {name: "google-plus", link: "https://plus.google.com/"}
@@ -66,7 +66,7 @@
   company: "AuthO"
   title: "Technical Writer"
   bio: "Prosper is a full stack software engineer and writer who’s worked on biometric, health, financial and developer tools. He currently works with Auth0 as a Technical Writer."
-  thumbnailUrl: nanyak.jpg
+  thumbnailUrl: team-placeholder.jpg
   rockstar: true
   ribbon: 
     - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/people/prosper-otemuyiwa"}
@@ -125,90 +125,3 @@
   social: 
     - {name: "google-plus", link: "https://google.com/+MoyinAdeyemi"}
     - {name: "twitter", link: "http://twitter.com/moyinoluwaa"}
-
-- 
-  id: 10
-  name: "Gbolahan"
-  surname: "Alli"
-  company: "Verspace Tech, GDG Ibadan"
-  title: "Software Engineer"
-  bio: "Hi ! I am a software Engineer with an Electrical Electronics Engineering background. I love to solve big problems while learning new and interesting ways to solve old problems. I love good music and is very passionate about developing the Tech space in Nigeria and Africa."
-  thumbnailUrl: alli.jpg
-  rockstar: false
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/114875347726232723618/"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+AlliOmogbolahan"}
-    - {name: "twitter", link: "http://twitter.com/purple_heart_me"}
-    - {name: "github", link: "https://github.com/gbolly"}
-- 
-  id: 11
-  name: "Charles"
-  surname: "Odili"
-  company: "Google"
-  title: "Developer Ecosystems Community Manager"
-  bio: "Hello there! I am Charles Odili from Lagos, Nigeria. With a background in Computer Engineering at the University of Benin, I quickly picked up deep interest in programming and have been coding since 2005. In 2007 I joined Xchequer, a Port HarCourt based startup, and lead the development of prototypes for an NFC payment system. Two years later (2009), I was back at the University of Benin as Web Developer /  Webmaster,  joining a team that revamped the Institutions websites and online presence, leading to several very impressive consecutive Webometric rankings in Africa and cool internal apps including Memoticks which I personally built with GWT/Errai. I am very passionate about technology and how it can serve to improve lives, thus I co-authored a book in 2012, started GDG Benin in 2014, and also helped kickstart startups. I am currently the Google Developer Ecosystems Community Manager for Google in Sub Saharan Africa."
-  thumbnailUrl: charles.jpg
-  rockstar: false
-- 
-  id: 12
-  name: "William"
-  surname: "Nwogbo"
-  company: "INITS Ltd"
-  title: "Software Engineer"
-  bio: "William Nwogbo is a software engineer at INITS Ltd, and has built quite a number of enterprise applications for businesses, he loves building solutions and solving technical problems, he would be showing you how to use SERVICE WORKERS. See you there."
-  thumbnailUrl: william.jpeg
-  rockstar: false
-  social: 
-    - {name: "facebook", link: "https://web.facebook.com/william.nwogbo"}
-- 
-  id: 13
-  name: "Mayowa"
-  surname: "Adegeye"
-  company: "Konga"
-  title: "Software Engineer"
-  bio: "I am Adegeye Mayowa Joseph, a Computer Science graduate from the University of Ibadan (2014). I have worked in a few tech companies as a mobile applications developer majorly for Android and Blackberry platforms. Currently i am with Konga where i started out working on shopping app but have since moved to writing back end REST APIs for KongaPay. I am a lover of mathematics and Algorithms and i hope to one day get a PhD in Theoretical Computer Science. I play FIFA or just watch movies when i am not coding."
-  thumbnailUrl: mayor.jpg
-  rockstar: false
-  social: 
-    - {name: "twitter", link: "http://twitter.com/mayojava"}
-- 
-  id: 14
-  name: "Omolara"
-  surname: "Adejuwon"
-  company: "Grace InfoTech"
-  title: "Software Engineer"
-  bio: "Omolara is a software developer. She currently works at Grace InfoTech Limited where she has worked on several mobile applications. She recently picked up Data Analytics and Information Retrieval as her new interests among others. When she is not coding, she is adding more to her knowledge base. She tweets at @_larikraun"
-  thumbnailUrl: lara.jpeg
-  rockstar: false
-  social: 
-    - {name: "twitter", link: "http://twitter.com/_larikraun"}
-- 
-  id: 15
-  name: "Efeturi"
-  surname: "Money"
-  company: "Hotels.ng"
-  title: "Software Engineer"
-  bio: "I'm an Android developer and Electronics Engineer. I am usually looking through lines of source code in Android studio, but in my spare time I hack together arduino-based robotics at Afrimakers or play games. Tweet at me or send me a mesage on facebook and google plus."
-  thumbnailUrl: money.jpg
-  rockstar: false
-  social: 
-    - {name: "twitter", link: "http://twitter.com/efemoney_"}
-    - {name: "facebook", link: "http://facebook.com/efemoney"}
-    - {name: "google-plus", link: "http://plus.google.com/u/0/+EfeturiMoney"}
-- 
-  id: 16
-  name: "Oyewale"
-  surname: "Oyediran"
-  company: "Konga, GDG Lagos"
-  title: "Software Engineer"
-  bio: ""
-  thumbnailUrl: oyewale.jpg
-  rockstar: false
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/112227844855698647164/"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+OyewaleOyediran"}
-    - {name: "twitter", link: "http://twitter.com/waleoyediran"}
-    - {name: "github", link: "https://github.com/waleoyediran"}
-    - {name: "site", link: "http://wale.oyediran.me"}
