@@ -18,17 +18,17 @@
   bio: "My name is Ire Aderinokun and I am a UI/UX Designer and Front-End Developer. I currently work as Head of Product and Design at Big Cabal Media, publishers of Tech Cabal and Zikoko. I work on a number of different open-source side projects, from themes for the Ghost blogging platform, to apps for the Pebble smartwatch. I also write weekly articles about front-end development on my blog, bitsofcode."
   thumbnailUrl: ire.jpg
   rockstar: false
+  ribbon: 
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/people/ire-aderinokun"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+Ire/"}
     - {name: "twitter", link: "http://twitter.com/ireaderinokun"}
-    - {name: "github", link: "http://github.com/ireade"}
 - 
   id: 17
   name: "Chike"
   surname: "Mgbemena"
   company: "Pacent Technologies"
   title: "Software Engineer"
-  bio: "Chike is a Software Developer at Pacent Technologies, mostly focused on Android and PHP development. A technical writer at Tuts+, an Ex-Google Student Ambassador and an Ampion Global Alumnus. Love to swim and my interest includes startups, politics, clean codes, robots, and IOT."
+  bio: "Chike is a Software Developer at Pacent Technologies, mostly focused on Android and PHP development. A Tuts+ Instructor, an Ex-Google Student Ambassador and an Ampion Global Alumnus. Love to swim and my interest includes startups, politics, clean codes, robots, and IOT."
   thumbnailUrl: chike.jpg
   rockstar: false
   social: 
@@ -43,9 +43,7 @@
   thumbnailUrl: celestine_omin.jpg
   rockstar: true
   social: 
-    - {name: "LinkedIn", link: "https://ng.linkedin.com/in/celestineomin"}
     - {name: "twitter", link: "https://twitter.com/cyberomin"}
-    - {name: "github", link: "http://github.com/cyberomin"}
 - 
   id: 4
   name: "Faical"
@@ -56,9 +54,7 @@
   thumbnailUrl: Faical.jpg
   rockstar: false
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/"}
-    - {name: "twitter", link: "https://twitter.com/"}
-    - {name: "github", link: "https://github.com/"}
+    - {name: "twitter", link: "https://twitter.com/ftchirou"}
 - 
   id: 5
   name: "Otemuyiwa"
@@ -71,7 +67,6 @@
   ribbon: 
     - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/people/prosper-otemuyiwa"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/107960098147748110182"}
     - {name: "twitter", link: "https://twitter.com/unicodeveloper"}
 - 
   id: 6
@@ -83,9 +78,7 @@
   thumbnailUrl: team-placeholder.jpg
   rockstar: false
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/"}
-    - {name: "twitter", link: "http://twitter.com/"}
-    - {name: "site", link: ""}
+    - {name: "twitter", link: "http://twitter.com/segunfamisa"}
 - 
   id: 7
   name: "Efeturi"
@@ -97,8 +90,6 @@
   rockstar: false
   social: 
     - {name: "twitter", link: "http://twitter.com/efemoney_"}
-    - {name: "facebook", link: "http://facebook.com/efemoney"}
-    - {name: "google-plus", link: "http://plus.google.com/u/0/+EfeturiMoney"}
 - 
   id: 8
   name: "Lynda"
@@ -109,8 +100,7 @@
   thumbnailUrl: team-placeholder.jpg
   rockstar: false
   social: 
-    - {name: "google-plus", link: "https://google.com/"}
-    - {name: "twitter", link: "http://twitter.com/"}
+    - {name: "twitter", link: "http://twitter.com/lyndachiwetelu"}
 - 
   id: 9
   name: "Moyinoluwa"
@@ -123,5 +113,53 @@
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+MoyinAdeyemi"}
-    - {name: "twitter", link: "http://twitter.com/moyinoluwaa"}
+    - {name: "twitter", link: "http://twitter.com/moyheen"}
+- 
+  id: 10
+  name: "Tomiwa"
+  surname: "Ijaware"
+  company: " "
+  title: "Software Engineer"
+  bio: " "
+  thumbnailUrl: team-placeholder.jpg
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "http://twitter.com/e911miri"}
+- 
+  id: 11
+  name: "Femi"
+  surname: "Taiwo"
+  company: "INITS LTD"
+  title: "Chief Technical Officer"
+  bio: ""
+  thumbnailUrl: dftaiwo.jpg
+  rockstar: false
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/people/femi-taiwo"}  
+  social: 
+    - {name: "twitter", link: "http://twitter.com/dftaiwo"}
+- 
+  id: 12
+  name: "Loknak"
+  surname: "Nanyak"
+  company: " "
+  title: "Software engineer"
+  bio: ""
+  thumbnailUrl: nanyak.jpg
+  rockstar: false
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  social: 
+    - {name: "twitter", link: "http://twitter.com/nanyaks"}
+- 
+  id: 13
+  name: "Nosakhare"
+  surname: " Belvi"
+  company: ""
+  title: "Software engineer"
+  bio: ""
+  thumbnailUrl: moyin.jpeg
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "http://twitter.com/Kingsmentor"}

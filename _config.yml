@@ -22,7 +22,7 @@ siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
 organizerName: "GDG Lagos"
-organizerAlternateName: "Google Developer Group (Lagos, Unilag, Ibadan, Funnab, Lautech, OAU, Abeokuta )"
+organizerAlternateName: "Google Developer Group (Lagos, Unilag, Ibadan, Funnab, Lautech, OAU, Abeokuta, Convenant University )"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
 organizerEmail: "hello@devfestsw.gdg.ng"
 organizerLogo: "/img/seo/organizer-logo.png"
@@ -50,9 +50,9 @@ navigationLinks:
  # - {permalink: "/logistics/", text: "Logistics"}
 
 bottomNavigationLinks:
- - {link: "http://bit.ly/2eFX9Z9", text: "Register"}
+ - {link: "https://www.eventbrite.com/e/gdg-devfest-ssw-2016-tickets-29429103240", text: "Register"}
 rightNavigationButtons:
- - {link: "http://bit.ly/2eFX9Z9", text: "Register"}
+ - {link: "https://www.eventbrite.com/e/gdg-devfest-ssw-2016-tickets-29429103240", text: "Register"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -61,7 +61,7 @@ eventDate: "November 25, 2016"
 typeoutTextValues: '"", "South-West", "Lagos", "Nigeria"'
 typeoutFallback: "Season"
 heroButtons:
- - {link: "http://bit.ly/2eFX9Z9", text: "Register"}
+ - {link: "https://www.eventbrite.com/e/gdg-devfest-ssw-2016-tickets-29429103240", text: "Register"}
 
 # About Block
 aboutTitle: "About GDG DevFest"
@@ -88,18 +88,18 @@ rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "Ibis Hotel"
+eventLocationName: "Ozone Cinemas"
 eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
-eventStreetAddress: "23 Toyin Street"
-eventAddressLocality: "Ikeja"
+eventStreetAddress: "1-11 Commercial Avenue"
+eventAddressLocality: "Sabo-Yaba"
 eventAddressLocalityRegion: "Lagos"
 eventAddressCountry: "Nigeria"
 eventStartTime: "2016-11-25T10:00"
 eventDoorTime: "10:00"
 eventEndTime: "2016-11-25T17:00"
-eventPlaceCoordinates: "6.5960522, 3.2811994"
-mapCenterCoordinates: "6.5960522, 3.2811994"
-mapMobileCenterCoordinates: "6.5960522, 3.2811994"
+eventPlaceCoordinates: "6.5062679, 3.3044657"
+mapCenterCoordinates: "6.5062679, 3.3044657"
+mapMobileCenterCoordinates: "6.5062679, 3.3044657"
 
 # Venue Block
 venueBlockTitle: "Venue"

@@ -29,9 +29,10 @@
   service: true
 -
   id: 511
-  title: "Closing Address"
+  title: "Closing Address/Vote of Thanks"
   place: "Dining room"
   service: true
+  speakers: [11,12]
 -
   id: 509
   title: "CODELABS"
@@ -95,20 +96,20 @@
   speakers: [9]
   complexity: "Intermediate"
 
-#-
-#  id: 201
-#  title: "Firebase (Web)"
-#  description: "Building Real-Time web apps with Firebase"
-#  subtype: workshop
-#  speakers: [5]
-#  complexity: "Intermediate"
-#-
-#  id: 202
-#  title: "Using Chrome Developer tools"
-#  description: "Getting more productivity out of Chrome Developer Tools"
-#  subtype: workshop
-#  speakers: [6]
-#  complexity: "Beginner" 
+-
+  id: 010
+  title: "Your options for smart apps"
+  description: ""
+  subtype: presentation
+  speakers: [10]
+  complexity: "Intermediate"
+-
+  id: 011
+  title: "Google Cloud Storage - Big query"
+  description: " "
+  subtype: presentation
+  speakers: [13]
+  complexity: "Beginner" 
 #-
 #  id: 203
 #  title: "Service Workers"
