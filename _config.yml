@@ -72,10 +72,10 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "200", specialCharacter: "+", info: "attendees", detail: "from Lagos, Ibadan, Abeokuta and alot more"}
+ - {count: "320", specialCharacter: "+", info: "attendees", detail: "from Lagos, Ibadan, Abeokuta and alot more"}
  - {count: "6", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "15", specialCharacter: "+", info: "speakers", detail: "from around the country"}
- - {count: "4", specialCharacter: "", info: "parallel tracks", detail: "plus exhibition lounge"}
+ - {count: "10", specialCharacter: "+", info: "speakers", detail: "from around the country"}
+ - {count: "2", specialCharacter: "", info: "parallel tracks", detail: "plus exhibition lounge"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
