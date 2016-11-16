@@ -30,8 +30,7 @@
 -
   id: 511
   title: "Closing Address/Vote of Thanks"
-  place: "Dining room"
-  service: true
+  subtype: workshop
   speakers: [11,12]
 -
   id: 509
