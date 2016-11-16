@@ -141,17 +141,17 @@
     - {name: "twitter", link: "http://twitter.com/dftaiwo"}
 - 
   id: 12
-  name: "Loknak"
-  surname: "Nanyak"
-  company: " "
+  name: "Wale"
+  surname: "Oyediran"
+  company: "Konga"
   title: "Software engineer"
   bio: ""
-  thumbnailUrl: nanyak.jpg
+  thumbnailUrl: oyewale.jpg
   rockstar: false
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social: 
-    - {name: "twitter", link: "http://twitter.com/nanyaks"}
+    - {name: "twitter", link: "http://twitter.com/waleoyediran"}
 - 
   id: 13
   name: "Nosakhare"
