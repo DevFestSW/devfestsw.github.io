@@ -62,7 +62,7 @@
   company: "AuthO"
   title: "Technical Writer"
   bio: "Prosper is a full stack software engineer and writer who’s worked on biometric, health, financial and developer tools. He currently works with Auth0 as a Technical Writer."
-  thumbnailUrl: team-placeholder.jpg
+  thumbnailUrl: prosper.jpg
   rockstar: false
   ribbon: 
     - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/people/prosper-otemuyiwa"}
@@ -75,7 +75,7 @@
   company: "Konga"
   title: "Software Engineer"
   bio: " "
-  thumbnailUrl: team-placeholder.jpg
+  thumbnailUrl: segun.jpg
   rockstar: false
   social: 
     - {name: "twitter", link: "http://twitter.com/segunfamisa"}
@@ -121,7 +121,7 @@
   company: " "
   title: "Software Engineer"
   bio: " "
-  thumbnailUrl: team-placeholder.jpg
+  thumbnailUrl: tommy.jpg
   rockstar: false
   social: 
     - {name: "twitter", link: "http://twitter.com/e911miri"}
