@@ -97,7 +97,7 @@
   company: "Hotels.ng"
   title: "Software engineer"
   bio: ""
-  thumbnailUrl: team-placeholder.jpg
+  thumbnailUrl: lynda.jpg
   rockstar: false
   social: 
     - {name: "twitter", link: "http://twitter.com/lyndachiwetelu"}
@@ -121,7 +121,7 @@
   company: " "
   title: "Software Engineer"
   bio: " "
-  thumbnailUrl: tommy.jpg
+  thumbnailUrl: tommy.jpeg
   rockstar: false
   social: 
     - {name: "twitter", link: "http://twitter.com/e911miri"}
@@ -159,7 +159,7 @@
   company: ""
   title: "Software engineer"
   bio: ""
-  thumbnailUrl: team-placeholder.jpg
+  thumbnailUrl: Kingsmentor.jpg
   rockstar: false
   social: 
     - {name: "twitter", link: "http://twitter.com/Kingsmentor"}
