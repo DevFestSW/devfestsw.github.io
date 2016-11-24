@@ -126,7 +126,7 @@ partnersC4sponsorsButton: "Become a sponsor"
 socialLinks:
  - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
  - {link: "https://twitter.com/search?q=Devfest16&src=typd", icon: "twitter"}
- - {link: "hhttps://web.facebook.com/search/str/DevFest16/keywords_top", icon: "facebook"}
+ - {link: "https://web.facebook.com/search/str/DevFest16/keywords_top", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
