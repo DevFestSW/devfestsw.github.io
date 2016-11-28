@@ -81,15 +81,15 @@
     - {name: "twitter", link: "http://twitter.com/segunfamisa"}
 - 
   id: 7
-  name: "Efeturi"
-  surname: "Money"
-  company: "eTranzact"
+  name: "Timi"
+  surname: "Ajiboye"
+  company: "HelloWorld"
   title: "Software Engineer"
-  bio: "I'm an Android developer and Electronics Engineer. I am usually looking through lines of source code in Android studio, but in my spare time I hack together arduino-based robotics at Afrimakers or play games. Tweet at me or send me a mesage on facebook and google plus."
-  thumbnailUrl: money.jpg
+  bio: "I make stuff that work on computers. Full stack x mobile developer at @trygigster. Blogs at http://hellosails.com  (Sails.js tutorials) and http://chunksofco.de ."
+  thumbnailUrl: timi.png
   rockstar: false
   social: 
-    - {name: "twitter", link: "http://twitter.com/efemoney_"}
+    - {name: "twitter", link: "http://twitter.com/timigod"}
 - 
   id: 8
   name: "Lynda"
@@ -116,15 +116,15 @@
     - {name: "twitter", link: "http://twitter.com/moyheen"}
 - 
   id: 10
-  name: "Tomiwa"
-  surname: "Ijaware"
-  company: " "
-  title: "Software Engineer"
-  bio: " "
-  thumbnailUrl: tommy.jpeg
+  name: "Kene"
+  surname: "Udeze"
+  company: "Co-Creation Hub"
+  title: "User Experience Designer"
+  bio: "I am a User Experience (UX) designer based in Lagos, Nigeria. I help startups fine-tune their products and lead the product design at CcHUB. I also run USABLE, a community of people (designers, developers, enthusiasts) who are interested in designing usable products. "
+  thumbnailUrl: kene.jpg
   rockstar: false
   social: 
-    - {name: "twitter", link: "http://twitter.com/e911miri"}
+    - {name: "twitter", link: "http://twitter.com/udezekene"}
 - 
   id: 11
   name: "Femi"

@@ -75,7 +75,7 @@
   complexity: "Beginner"
 -
   id: 006
-  title: "Making Android views work for you"
+  title: "SOLID Principles"
   description: ""
   subtype: presentation
   speakers: [7]
@@ -97,7 +97,7 @@
 
 -
   id: 010
-  title: "Your options for smart apps"
+  title: "Designing for Humans"
   description: ""
   subtype: presentation
   speakers: [10]
