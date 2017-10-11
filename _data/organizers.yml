@@ -8,8 +8,10 @@
     - {name: "GDG BELLS", description: "GDG BELLS - Open and volunteer geek community", link: "http://bu.gdg.ng", imageUrl: "gdg-bells.svg"}
     - {name: "GDG Convenant University", description: "GDG Covenant University - Open and volunteer geek community", link: "http://cu.gdg.ng", imageUrl: "gdg-convenant.svg"}
     - {name: "GDG FUNAAB", description: "GDG FUNAAB - Open and volunteer geek community", link: "http://funaab.gdg.ng", imageUrl: "gdg-funaab.svg"}
-    - {name: "GDG Ibadan", description: "GDG Ibadan - Open and volunteer geek community", link: "http://ibadan.gdg.ng", imageUrl: "gdg-ibadan.svg"}
+    - {name: "GDG Ibadan", description: "GDG Ibadan - Open and volunteer geek community", link: "https://www.meetup.com/preview/GDG-Ibadan", imageUrl: "gdg-ibadan.svg"}
     - {name: "GDG Lagos", description: "GDG Lagos - Open and volunteer geek community", link: "http://lagos.gdg.ng", imageUrl: "gdg-lagos.svg"}
     - {name: "GDG Lautech", description: "GDG Lautech - Open and volunteer geek community", link: "http://lautech.gdg.ng", imageUrl: "gdg-lautech.svg"}
     - {name: "GDG OAU", description: "GDG OAU - Open and volunteer geek community", link: "http://oau.gdg.ng", imageUrl: "gdg-oau.svg"}
+    - {name: "GDG Osogbo", description: "GDG Osogbo - Open and volunteer geek community", link: "http://osogbo.gdg.ng", imageUrl: "gdg-osogbo.svg"}
     - {name: "GDG Unilag", description: "GDG Unilag - Open and volunteer geek community", link: "http://unilag.gdg.ng", imageUrl: "gdg-unilag.svg"}
+    - {name: "GDG Unilorin", description: "GDG Unilorin - Open and volunteer geek community", link: "http://unilorin.gdg.ng", imageUrl: "gdg-unilorin.svg"}
