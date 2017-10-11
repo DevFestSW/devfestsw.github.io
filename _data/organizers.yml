@@ -1,7 +1,7 @@
 - 
   group: "Host"
   elements: 
-    - {name: "GDG Ibadan", description: "GDG Ibadan - Open and volunteer geek community", link: "http://ibadan.gdg.ng", imageUrl: "gdg-ibadan.svg"}
+    - {name: "GDG Ibadan", description: "GDG Ibadan - Open and volunteer geek community", link: "https://www.meetup.com/preview/GDG-Ibadan", imageUrl: "gdg-ibadan.svg"}
 - 
   group: "Organizers"
   elements: 
