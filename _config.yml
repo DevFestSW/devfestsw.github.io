@@ -51,9 +51,9 @@ navigationLinks:
  # - {permalink: "/logistics/", text: "Logistics"}
 
 bottomNavigationLinks:
- - {link: "https://goo.gl/dMRz4x", text: "Register"}
+ - {link: "http://bit.ly/devfestsw17", text: "Register"}
 rightNavigationButtons:
- - {link: "https://goo.gl/dMRz4x", text: "Register"}
+ - {link: "http://bit.ly/devfestsw17", text: "Register"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -62,7 +62,7 @@ eventDate: "November 18, 2017"
 typeoutTextValues: '"", "South-West", "Ibadan", "Nigeria"'
 typeoutFallback: "Season"
 heroButtons:
- - {link: "https://goo.gl/dMRz4x", text: "Register"}
+ - {link: "http://bit.ly/devfestsw17", text: "Register"}
 
 # About Block
 aboutTitle: "About GDG DevFest"
