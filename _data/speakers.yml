@@ -1,111 +1,108 @@
 - 
   id: 1
   name: "Zainab"
-  surname: "Aiyeleso"
+  surname: "Ahmed"
   company: "Konga"
   title: "Software Engineering Lead"
-  bio: ""
+  bio: "I love to build things that make people's life just a little bit easier. I love reading. I love clean Code.I currently manage the mobile development team at Konga.com. This covers mobile browsers, Native Android and iOS platforms. I strongly believe the growth of the mobile platform in Africa can be used to effect changes in the continent via creative application development and research. I'm all for collaboration to create value."
   thumbnailUrl: zainab.jpg
-  rockstar: false
+  rockstar: true
   social: 
     - {name: "twitter", link: "http://twitter.com/baniyaz"}
 - 
   id: 2
   name: "Ire"
   surname: "Aderinokun"
-  company: "BigCabal, Zikoko"
+  company: "BigCabal"
   title: "Designer"
   bio: "My name is Ire Aderinokun and I am a UI/UX Designer and Front-End Developer. I currently work as Head of Product and Design at Big Cabal Media, publishers of Tech Cabal and Zikoko. I work on a number of different open-source side projects, from themes for the Ghost blogging platform, to apps for the Pebble smartwatch. I also write weekly articles about front-end development on my blog, bitsofcode."
   thumbnailUrl: ire.jpg
   rockstar: false
+  ribbon: 
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/people/ire-aderinokun"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+Ire/"}
     - {name: "twitter", link: "http://twitter.com/ireaderinokun"}
-    - {name: "github", link: "http://github.com/ireade"}
 - 
   id: 17
-  name: "Femi"
-  surname: "Longe"
-  company: "CcHub"
-  title: "Co-founder"
-  bio: ""
-  thumbnailUrl: femi-longe.png
-  rockstar: true
+  name: "Chike"
+  surname: "Mgbemena"
+  company: "Pacent Technologies"
+  title: "Software Engineer"
+  bio: "Chike is a Software Developer at Pacent Technologies, mostly focused on Android and PHP development. A Tuts+ Instructor, an Ex-Google Student Ambassador and an Ampion Global Alumnus. Love to swim and my interest includes startups, politics, clean codes, robots, and IOT."
+  thumbnailUrl: chike.jpg
+  rockstar: false
   social: 
-    - {name: "twitter", link: "http://twitter.com/femilonge"}
+    - {name: "twitter", link: "http://twitter.com/"}
 - 
   id: 3
-  name: "Femi"
-  surname: "Taiwo"
-  company: "INITS"
-  title: "CTO"
+  name: "Celestine"
+  surname: "Omin"
+  company: "Andela"
+  title: "Senior Technical Consultant"
   bio: ""
-  thumbnailUrl: dftaiwo.jpg
+  thumbnailUrl: celestine_omin.jpg
   rockstar: true
-  ribbon: 
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/112227844855698647164/"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+FemiTaiwo/"}
-    - {name: "twitter", link: "http://twitter.com/dftaiwo"}
-    - {name: "github", link: "http://github.com/dftaiwo"}
+    - {name: "twitter", link: "https://twitter.com/cyberomin"}
 - 
   id: 4
-  name: "Abiola"
-  surname: "Ibrahim"
-  company: "Konga"
+  name: "Faical"
+  surname: "Tchirou"
+  company: "Andela"
   title: "Software Engineer"
-  bio: 'Abiola is a Software Engineer at Konga. He is experienced across the software development stack and has been developing with range of technologies for about 8 years. He loves Open Source and experimenting with new technologies. Abiola is an avid gamer when his keyboard is resting.'
-  thumbnailUrl: abiosoft.jpg
+  bio: "I’m an iOS and Android engineer at Andela. I’m passionate about programming languages, their design and implementation (currently in love with Kotlin and Swift) and I’m in a perpetual quest to find simpler and better ways to build reliable and performant software to solve real world problems and impact people lives."
+  thumbnailUrl: Faical.jpg
   rockstar: false
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/109813433389926474050/"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+AbiolaIbrahim"}
-    - {name: "twitter", link: "https://twitter.com/abiosoft"}
-    - {name: "github", link: "https://github.com/abiosoft"}
+    - {name: "twitter", link: "https://twitter.com/ftchirou"}
 - 
   id: 5
-  name: "Loknan"
-  surname: "Nanyak"
-  company: "Delivery Science, GDG Lagos"
-  title: "Software Engineer"
-  bio: "A passionate Web applications developer, Linux user, Git enthusiast. Loknan enjoys creating awesome applications with cutting edge technologies and techniques while still having fun putting them to work on servers and cloud infrastructure. He has been building systems and working with software for about 7 years and has many more years of exciting tech goodness to experience."
-  thumbnailUrl: nanyak.jpg
+  name: "Otemuyiwa"
+  surname: "Prosper"
+  company: "AuthO"
+  title: "Technical Writer"
+  bio: "Prosper is a full stack software engineer and writer who’s worked on biometric, health, financial and developer tools. He currently works with Auth0 as a Technical Writer."
+  thumbnailUrl: prosper.jpg
   rockstar: false
   ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/112227844855698647164/"}
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/people/prosper-otemuyiwa"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+NanyakLoknan"}
+    - {name: "twitter", link: "https://twitter.com/unicodeveloper"}
 - 
   id: 6
-  name: "Tomiwa"
-  surname: "Ijaware"
-  company: "Konga, GDG Akure"
+  name: "Segun"
+  surname: "Famisa"
+  company: "Konga"
   title: "Software Engineer"
-  bio: "Not much is known about Tomiwa, however, information from our sources indicate that he is a software engineer that takes pride in creating software in the simplest of ways. To do this, he leans on the shoulders of open source giants using  their collective wisdom and conventions to guide design and development choices. During the day, he creates useful features for his customers and at night, he practises design thinking. There are rumours (though unconfirmed) of his interest in machine learning."
-  thumbnailUrl: tommy.jpeg
-  rockstar: false
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/113800801882072410635/"}
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+TomiwaIjaware/"}
-    - {name: "twitter", link: "http://twitter.com/e911miri"}
-    - {name: "site", link: "http://tomiwa.xyz"}
-- 
-  id: 16
-  name: "Adewale"
-  surname: "Balogun"
-  company: "Appiculate Limited"
-  title: "Software Engineer"
-  bio: "Adewale is a self-taught full-stack developer and android advocate. With over 5 years experience developing native applications. He tries to take over the world one-line-of-code at a time. He’s driven by the obsessive need to make the world a better place one app at a time. In his spare time he enjoys playing and watching football, video games, and hanging-out with friends."
-  thumbnailUrl: adewale.jpg
+  bio: " "
+  thumbnailUrl: segun.jpg
   rockstar: false
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+BalogunAdewale"}
-    - {name: "twitter", link: "http://twitter.com/whaleswallace"}
+    - {name: "twitter", link: "http://twitter.com/segunfamisa"}
 - 
   id: 7
+  name: "Timi"
+  surname: "Ajiboye"
+  company: "HelloWorld"
+  title: "Software Engineer"
+  bio: "I make stuff that work on computers. Full stack x mobile developer at @trygigster. Blogs at http://hellosails.com  (Sails.js tutorials) and http://chunksofco.de ."
+  thumbnailUrl: timi.png
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "http://twitter.com/timigod"}
+- 
+  id: 8
+  name: "Lynda"
+  surname: "Chiwetelu"
+  company: "Hotels.ng"
+  title: "Software engineer"
+  bio: ""
+  thumbnailUrl: lynda.jpg
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "http://twitter.com/lyndachiwetelu"}
+- 
+  id: 9
   name: "Moyinoluwa"
   surname: "Adeyemi"
   company: "Swifta Systems, GDG Lagos"
@@ -116,104 +113,53 @@
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+MoyinAdeyemi"}
-    - {name: "twitter", link: "http://twitter.com/moyinoluwaa"}
+    - {name: "twitter", link: "http://twitter.com/moyheen"}
 - 
-  id: 9
-  name: "Kama"
-  surname: "Mishael"
-  company: "Masble, GDG Unilag"
-  title: "Founder"
-  bio: 'Web &Mobile Developer and Graphic Designer with a 4 year experience. Has a strong enthusiasm for technology and programming. Co-founder of "workarr Ng" & Organiser of "GDG Unilag".'
-  thumbnailUrl: kama.jpeg
+  id: 10
+  name: "Kene"
+  surname: "Udeze"
+  company: "Co-Creation Hub"
+  title: "User Experience Designer"
+  bio: "I am a User Experience (UX) designer based in Lagos, Nigeria. I help startups fine-tune their products and lead the product design at CcHUB. I also run USABLE, a community of people (designers, developers, enthusiasts) who are interested in designing usable products. "
+  thumbnailUrl: kene.jpg
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "http://twitter.com/udezekene"}
+- 
+  id: 11
+  name: "Femi"
+  surname: "Taiwo"
+  company: "INITS LTD"
+  title: "Chief Technical Officer"
+  bio: "Femi is Co-Founder and CTO of INITS, a Technology Provider based in Lagos, focused on creating innovative and useful solutions in the unique environment of Nigeria. "
+  thumbnailUrl: dftaiwo.jpg
   rockstar: false
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/people/femi-taiwo"}  
   social: 
-    - {name: "google-plus", link: "https://google.com/+kamamishael"}
-- 
-  id: 10
-  name: "Gbolahan"
-  surname: "Alli"
-  company: "Verspace Tech, GDG Ibadan"
-  title: "Software Engineer"
-  bio: "Hi ! I am a software Engineer with an Electrical Electronics Engineering background. I love to solve big problems while learning new and interesting ways to solve old problems. I love good music and is very passionate about developing the Tech space in Nigeria and Africa."
-  thumbnailUrl: alli.jpg
-  rockstar: false
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/114875347726232723618/"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+AlliOmogbolahan"}
-    - {name: "twitter", link: "http://twitter.com/purple_heart_me"}
-    - {name: "github", link: "https://github.com/gbolly"}
-- 
-  id: 11
-  name: "Charles"
-  surname: "Odili"
-  company: "Google"
-  title: "Developer Ecosystems Community Manager"
-  bio: "Hello there! I am Charles Odili from Lagos, Nigeria. With a background in Computer Engineering at the University of Benin, I quickly picked up deep interest in programming and have been coding since 2005. In 2007 I joined Xchequer, a Port HarCourt based startup, and lead the development of prototypes for an NFC payment system. Two years later (2009), I was back at the University of Benin as Web Developer /  Webmaster,  joining a team that revamped the Institutions websites and online presence, leading to several very impressive consecutive Webometric rankings in Africa and cool internal apps including Memoticks which I personally built with GWT/Errai. I am very passionate about technology and how it can serve to improve lives, thus I co-authored a book in 2012, started GDG Benin in 2014, and also helped kickstart startups. I am currently the Google Developer Ecosystems Community Manager for Google in Sub Saharan Africa."
-  thumbnailUrl: charles.jpg
-  rockstar: false
+    - {name: "twitter", link: "http://twitter.com/dftaiwo"}
 - 
   id: 12
-  name: "William"
-  surname: "Nwogbo"
-  company: "INITS Ltd"
-  title: "Software Engineer"
-  bio: "William Nwogbo is a software engineer at INITS Ltd, and has built quite a number of enterprise applications for businesses, he loves building solutions and solving technical problems, he would be showing you how to use SERVICE WORKERS. See you there."
-  thumbnailUrl: william.jpeg
-  rockstar: false
-  social: 
-    - {name: "facebook", link: "https://web.facebook.com/william.nwogbo"}
-- 
-  id: 13
-  name: "Mayowa"
-  surname: "Adegeye"
-  company: "Konga"
-  title: "Software Engineer"
-  bio: "I am Adegeye Mayowa Joseph, a Computer Science graduate from the University of Ibadan (2014). I have worked in a few tech companies as a mobile applications developer majorly for Android and Blackberry platforms. Currently i am with Konga where i started out working on shopping app but have since moved to writing back end REST APIs for KongaPay. I am a lover of mathematics and Algorithms and i hope to one day get a PhD in Theoretical Computer Science. I play FIFA or just watch movies when i am not coding."
-  thumbnailUrl: mayor.jpg
-  rockstar: false
-  social: 
-    - {name: "twitter", link: "http://twitter.com/mayojava"}
-- 
-  id: 14
-  name: "Omolara"
-  surname: "Adejuwon"
-  company: "Grace InfoTech"
-  title: "Software Engineer"
-  bio: "Omolara is a software developer. She currently works at Grace InfoTech Limited where she has worked on several mobile applications. She recently picked up Data Analytics and Information Retrieval as her new interests among others. When she is not coding, she is adding more to her knowledge base. She tweets at @_larikraun"
-  thumbnailUrl: lara.jpeg
-  rockstar: false
-  social: 
-    - {name: "twitter", link: "http://twitter.com/_larikraun"}
-- 
-  id: 15
-  name: "Efeturi"
-  surname: "Money"
-  company: "Hotels.ng"
-  title: "Software Engineer"
-  bio: "I'm an Android developer and Electronics Engineer. I am usually looking through lines of source code in Android studio, but in my spare time I hack together arduino-based robotics at Afrimakers or play games. Tweet at me or send me a mesage on facebook and google plus."
-  thumbnailUrl: money.jpg
-  rockstar: false
-  social: 
-    - {name: "twitter", link: "http://twitter.com/efemoney_"}
-    - {name: "facebook", link: "http://facebook.com/efemoney"}
-    - {name: "google-plus", link: "http://plus.google.com/u/0/+EfeturiMoney"}
-- 
-  id: 8
-  name: "Oyewale"
+  name: "Wale"
   surname: "Oyediran"
-  company: "Konga, GDG Lagos"
-  title: "Software Engineer"
+  company: "Konga"
+  title: "Software engineer"
   bio: ""
   thumbnailUrl: oyewale.jpg
   rockstar: false
   ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/112227844855698647164/"}
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+OyewaleOyediran"}
     - {name: "twitter", link: "http://twitter.com/waleoyediran"}
-    - {name: "github", link: "https://github.com/waleoyediran"}
-    - {name: "site", link: "http://wale.oyediran.me"}
+- 
+  id: 13
+  name: "Nosakhare"
+  surname: " Belvi"
+  company: ""
+  title: "Software engineer"
+  bio: "Nosakhare Belvi currently works with Appzone Group as a Senior mobile developer. Fascinated by how things works and handling technical task. Loves open source contribution and shares his experiences at http://belvi.xyz"
+  thumbnailUrl: nosa.jpeg
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "http://twitter.com/Kingsmentor"}

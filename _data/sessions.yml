@@ -7,16 +7,14 @@
 -
   id: 502
   title: "Keynote Address (Android)"
-  place: "Dining room"
+  place: "COMING SOON"
   subtype: Keynote
-  place: "CCHub"
-  speakers: [17]
+  speakers: [1]
 -
   id: 505
-  title: "Keynote Address (Cloud)"
-  place: "Dining room"
+  title: "Keynote Address (Web)"
   subtype: Keynote
-  place: "iDeaHub"
+  place: "COMING SOON"
   speakers: [3]
 -
   id: 503
@@ -24,107 +22,119 @@
   place: "Dining room"
   service: true
 -
-  id: 504
-  title: "Closing Address"
+  id: 510
+  title: "Fireside Chat"
+  description: "Ask the speakers anything"
   place: "Dining room"
   service: true
 -
-  id: 506
-  title: "What next after DevFest?"
-  subtype: keynote
-  speakers: [11]
+  id: 511
+  title: "Closing Address/Vote of Thanks"
+  subtype: workshop
+  speakers: [11,12]
+-
+  id: 509
+  title: "CODELABS"
+  subtype: workshop
+  service: true
+
 -
   id: 001
-  title: "Introduction To Android Development"
-  description: "This section will cover the fundamentals of Android Development"
+  title: "Introduction To Android's Model View Presenter"
+  description: "This section will cover the fundamentals of MVP architecture pattern"
   subtype: workshop
-  speakers: [16]
-  place: "CCHub"
-  complexity: "Beginner"
+  speakers: [17]
+  complexity: "Intermediate"
 -
   id: 002
-  title: "Firebase (Android)"
-  description: "Building Real-Time applications with Firebase"
+  title: "Progressive Web Apps"
+  description: "Building apps that are progressive"
   subtype: workshop
-  speakers: [7]
-  place: "CCHub"
+  speakers: [2]
   complexity: "Intermediate" 
 -
   id: 003
-  title: "Material Design"
-  description: "In-Depth Look at Material Design on Android"
+  title: "Reactive Programming on Android with RxJava"
+  description: "In-Depth Look at Reactive programming on Android"
   subtype: presentation
-  speakers: [15]
+  speakers: [4]
   complexity: "Intermediate" 
 -
   id: 004
-  title: "Location Services in Android"
-  description: "Introduction to Location-Services on Android"
+  title: "Firebase for the Web"
+  description: "Introduction to Firebase on the Web"
   subtype: presentation
-  speakers: [14]
-  complexity: "Beginner"
-
--
-  id: 005
-  title: "Finding Success in the Play Store"
-  description: "The making of awesomely successful apps in the Play Store"
-  subtype: presentation
-  speakers: [1]
-  complexity: "Expert"
--
-  id: 006
-  title: "Debugging in Android Studio"
-  description: "The art and science of Debugging apps in Android studio"
-  subtype: workshop
-  speakers: [13]
-  complexity: "Beginner"
--
-  id: 007
-  title: "Event Driven Programming"
-  description: "De-mystifying Event-Driven Programming paradigm of Android development"
-  subtype: presentation
-  speakers: [8]
-  complexity: "Expert"
--
-  id: 201
-  title: "Firebase (Web)"
-  description: "Building Real-Time web apps with Firebase"
-  subtype: workshop
   speakers: [5]
   complexity: "Intermediate"
 -
-  id: 202
-  title: "Using Chrome Developer tools"
-  description: "Getting more productivity out of Chrome Developer Tools"
-  subtype: workshop
+  id: 005
+  title: "What's new in Firebase"
+  description: "The latest on Firebase for Android"
+  subtype: presentation
   speakers: [6]
-  complexity: "Beginner" 
+  complexity: "Beginner"
 -
-  id: 203
-  title: "Service Workers"
+  id: 006
+  title: "SOLID Principles"
   description: ""
   subtype: presentation
-  speakers: [12]
-  complexity: "Intermediate" 
--
-  id: 204
-  title: "UI / UX"
-  description: "Building great user experiences on the web"
-  subtype: presentation
-  speakers: [2]
+  speakers: [7]
   complexity: "Intermediate"
 -
-  id: 205
-  title: "Introduction to docker containers"
-  description: "Containers for better development/deployment"
+  id: 007
+  title: "Polymer"
+  description: "Polymer is an open-source JavaScript library for building web applications using web components"
   subtype: presentation
-  speakers: [4]
-  complexity: "Expert"
--
-  id: 206
-  title: "Using Material Design Lite"
-  description: ""
-  subtype: workshop
-  speakers: [9]
+  speakers: [8]
   complexity: "Beginner"
+-
+  id: 506
+  title: "Machine Learning for Android Developers"
+  description: ""
+  subtype: presentation
+  speakers: [9]
+  complexity: "Intermediate"
+
+-
+  id: 010
+  title: "Designing for Humans"
+  description: ""
+  subtype: presentation
+  speakers: [10]
+  complexity: "Intermediate"
+-
+  id: 011
+  title: "Google Cloud Storage - Big query"
+  description: " "
+  subtype: presentation
+  speakers: [13]
+  complexity: "Beginner" 
+#-
+#  id: 203
+#  title: "Service Workers"
+#  description: ""
+#  subtype: presentation
+#  speakers: [12]
+#  complexity: "Intermediate" 
+#-
+#  id: 204
+#  title: "UI / UX"
+#  description: "Building great user experiences on the web"
+#  subtype: presentation
+#  speakers: [2]
+#  complexity: "Intermediate"
+#-
+#  id: 205
+#  title: "Introduction to docker containers"
+#  description: "Containers for better development/deployment"
+#  subtype: presentation
+#  speakers: [4]
+#  complexity: "Expert"
+#-
+#  id: 206
+#  title: "Using Material Design Lite"
+#  description: ""
+#  subtype: workshop
+#  speakers: [9]
+#  complexity: "Beginner"
 
