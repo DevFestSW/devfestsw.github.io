@@ -54,8 +54,10 @@ navigationLinks:
 
 bottomNavigationLinks:
  - {link: "http://bit.ly/devfestsw17", text: "Register"}
+ - {link: "https://www.papercall.io/devfestsw17", text: "Become a Speaker"}
 rightNavigationButtons:
  - {link: "http://bit.ly/devfestsw17", text: "Register"}
+ - {link: "https://www.papercall.io/devfestsw17", text: "Become a Speaker"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -64,6 +66,7 @@ eventDate: "November 18, 2017"
 typeoutTextValues: '"", "South-West", "Ibadan", "Nigeria"'
 typeoutFallback: "Season"
 heroButtons:
+ - {link: "https://www.papercall.io/devfestsw17", text: "Become a Speaker"}
  - {link: "http://bit.ly/devfestsw17", text: "Register"}
 
 # About Block
