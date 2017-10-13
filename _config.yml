@@ -19,7 +19,9 @@ permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
 googleAnalyticsSiteUrl: "gdg-x.github.io"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
-logo: "/img/sprites/gdg-logo.png"
+logo: "/img/logos/devfest-2017-grey.svg"
+logo-light: "/img/logos/devfest-2017-white.svg"
+logo-dark: "/img/logos/devfest-2017-grey.svg"
 
 # Organizer Info
 organizerName: "GDG Ibadan"
