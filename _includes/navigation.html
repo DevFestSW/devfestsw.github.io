@@ -4,8 +4,10 @@
         <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-menu"></use>
     </svg>
     <a href="{{ site.baseurl }}/" id="logo-header" class="logo-header">
-        <!-- <div class="logo logo-light"></div> -->
-        <img class="logo" style="background: none !important" src="{{ site.logo }}"/>
+        <div class="logo logo-light">
+            <img class="logo-dark-img" src="{{ site.logo-dark }}"/>
+            <img class="logo-light-img" src="{{ site.logo-light }}"/>
+        </div>
     </a>
     <nav class="st-menu st-effect" id="menu">
         <div class="logo-navbar logo logo-dark visible-xs"></div>

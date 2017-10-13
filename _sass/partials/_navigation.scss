@@ -44,10 +44,25 @@ $nav-scroll-color-hover: rgba(0, 0, 0, .8);
         margin-right: 20px;
         transform: scale(.7);
         vertical-align: middle;
+        background: transparent;
          @media (max-width: 767px) {
             transform: scale(.6);
         }
     }
+
+    .logo-dark-img,
+    .logo-light-img {
+        display: none;
+        height: 60px;
+    }
+
+    .logo-dark .logo-dark-img,
+    .logo-light .logo-light-img {
+        display: block;
+    }
+
+
+
 }
 .logo-navbar {
     width: 185px;
