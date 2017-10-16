@@ -60,7 +60,7 @@ rightNavigationButtons:
  - {link: "https://www.papercall.io/devfestsw17", text: "Become a Speaker"}
 
 # Hero Block
-heroImage: "hero.jpg"
+heroImage: "hero.png"
 heroTitle: "GDG DevFest <typeout> 2017"
 eventDate: "November 18, 2017"
 typeoutTextValues: '"", "South-West", "Ibadan", "Nigeria"'

@@ -70,7 +70,14 @@ $nav-scroll-color-hover: rgba(0, 0, 0, .8);
     margin: 8px 20px 0 -10px;
     transform: scale(.6);
     vertical-align: middle;
+    background: transparent;
+
+    img {
+        display: block;
+        height: 100%;
+    }
 }
+
 nav {
     @media (max-width: 767px) {
         position: fixed;
