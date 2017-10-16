@@ -54,8 +54,10 @@ navigationLinks:
 
 bottomNavigationLinks:
  - {link: "http://bit.ly/devfestsw17", text: "Register"}
+ - {link: "https://www.papercall.io/devfestsw17", text: "Become a Speaker"}
 rightNavigationButtons:
  - {link: "http://bit.ly/devfestsw17", text: "Register"}
+ - {link: "https://www.papercall.io/devfestsw17", text: "Become a Speaker"}
 
 # Hero Block
 heroImage: "hero.png"
@@ -64,13 +66,14 @@ eventDate: "November 18, 2017"
 typeoutTextValues: '"", "South-West", "Ibadan", "Nigeria"'
 typeoutFallback: "Season"
 heroButtons:
+ - {link: "https://www.papercall.io/devfestsw17", text: "Become a Speaker"}
  - {link: "http://bit.ly/devfestsw17", text: "Register"}
 
 # About Block
 aboutTitle: "About GDG DevFest"
 aboutBlock:
- - {title: "Conference", image: "developers.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Workshops", image: "developers-2.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
+ - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
+ - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
