@@ -7,6 +7,10 @@
   group: "With support of"
   elements:
     - {name: "iBridge Hub", description: "iBridge Hub", link: "http://www.ibridgehub.com", imageUrl: "ibridge-hub-logo.jpeg", width: "200px"}
+-
+  group: "Event Planners"
+  elements:
+    - {name: "Lautitia Azur Events", description: "Lautitia Azur Events", link: "https://www.instagram.com/lautitiaazurevents/", imageUrl: "lautitia-azur-logo.jpg", width: "200px"}
 
 -
   group: "Media"
