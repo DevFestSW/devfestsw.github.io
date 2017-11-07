@@ -66,17 +66,17 @@
   rockstar: false
   social: 
     - {name: "twitter", link: "http://twitter.com/"}
-- 
-  id: 8
-  name: ""
-  surname: ""
-  company: ""
-  title: "Software engineer"
-  bio: ""
-  thumbnailUrl: 
-  rockstar: false
-  social: 
-    - {name: "twitter", link: "http://twitter.com/"}
+#-
+#  id: 8
+#  name: ""
+#  surname: ""
+#  company: ""
+#  title: "Software engineer"
+#  bio: ""
+#  thumbnailUrl:
+#  rockstar: false
+#  social:
+#    - {name: "twitter", link: "http://twitter.com/"}
 - 
   id: 9
   name: "Moyinoluwa"
@@ -130,10 +130,10 @@
   id: 13
   name: "Kingdom"
   surname: "Orjiewuru"
-  company: ""
-  title: "Software engineer"
-  bio: ""
-  thumbnailUrl: 
+  company: "Andela"
+  title: "Software developer"
+  bio: "Kingdom is software developer at Andela. He has years of experience working with JavaScript and other related web technologies including PWAs and GraphQL. He loves sharing his knowledge through writing articles and speaking at developer events. This year, 2017, He has spoken at five (5) developer events so far (ForLoop Kaduna, ForLoop CU, React Summit(Oct 27) and others). His goal is to become a Google Developer Expert and continue to help other developers become world class."
+  thumbnailUrl: kingdom.jpg
   rockstar: false
   social: 
     - {name: "twitter", link: "http://twitter.com/kingisaac95"}
@@ -165,8 +165,8 @@
   surname: "Georgewill"
   company: ""
   title: "Product Designer"
-  bio: ""
-  thumbnailUrl: 
+  bio: "Sharon helps businesses and brands build products, attract the desired customers using the appropriate digital tools. She is an emoji freak, and her favorite member of one direction is Niall Horan"
+  thumbnailUrl: sharon.jpg
   rockstar: false
   social: 
     - {name: "twitter", link: "http://twitter.com/"}
@@ -174,13 +174,13 @@
   id: 18
   name: "Theodora"
   surname: "Isola"
-  company: ""
-  title: ""
-  bio: ""
-  thumbnailUrl: 
+  company: "Olotusquare"
+  title: "Head, Community, Partnership and Marketing"
+  bio: "Theodora is the head, Community, Partnership, and Marketing at Olotusquare (Tech Hub Port Harcourt): A community of startups & technology developers with interests from full-stack web technologies to Artificial Intelligence and Engineering."
+  thumbnailUrl: theodora.jpg
   rockstar: false
   social: 
-    - {name: "twitter", link: "http://twitter.com/"}
+    - {name: "twitter", link: "http://twitter.com/theodoraisola"}
 - 
   id: 19
   name: "Olaoluwa"
@@ -191,7 +191,7 @@
   thumbnailUrl: olaoluwa.jpg
   rockstar: false
   social: 
-    - {name: "twitter", link: "http://twitter.com/"}
+    - {name: "twitter", link: "http://twitter.com/olamiesoft"}
 - 
   id: 20
   name: "Abayomi"
@@ -219,15 +219,15 @@ Ayobami, in his early 20s has gathered a lot of experiences locally and internat
     - {name: "twitter", link: "http://twitter.com/aniediudo"}
 - 
   id: 22
-  name: "Adegoke"
+  name: "Goke"
   surname: "Obasa"
   company: "GDG Ibadan, Cotta&Cush Limited"
   title: "Lead Organizer"
-  bio: ""
-  thumbnailUrl: 
+  bio: "Goke Obasa is a Senior Software Engineer at Cotta & Cush Limited (cottacush.com) a web, mobile and data engineering company where he builds enterprise software and adkandi.com as well as leads Mobile and DevOps efforts as the Lead Engineer Mobile / DevOps.He also worked at Konga Online Shopping Limited where he was part of the teams that built Ktalk (a messaging platform), Live Help ( customer service live chat), Seller Ratings (customer - seller feedback / ratings system) and ZIN ( a CRM application ).He has built various mobile and web applications across eCommerce, FinTech, Logistics, Real Estate, Banking, Enterprise and Messaging verticals and he has interest in DevOps, Machine Learning, Robotics (Assistive and Swarm), Computer Vision and Speech Recognition. He presently serves as the Lead Organiser of the Google Developer Groups (GDG) Ibadan and he blogs at https://blog.adegokeobasa.me about continuous delivery and deployment."
+  thumbnailUrl: goke.png
   rockstar: false
   ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://www.meetup.com/GDG-Ibadan/"}
   social: 
     - {name: "twitter", link: "http://twitter.com/goke_"}
 - 
@@ -236,10 +236,10 @@ Ayobami, in his early 20s has gathered a lot of experiences locally and internat
   surname: "Olaoye"
   company: "GDG Ibadan, Cotta&Cush Limited"
   title: "Co-organizer"
-  bio: "Adeyemi Olaoye is a co-organizer at GDG Ibadan. He is also a senior software engineer with 5 years experience in building scalable software and majors on building APIs. He currently works at Cotta&Cush Limited where he builds enterprise software, in-house products and leads efforts around web architecture and integration. He holds a BSc in Computer Engineering from Obafemi Awolowo University."
-  thumbnailUrl: 
+  bio: "Adeyemi Olaoye is a co-organizer at GDG Ibadan. He is also a senior software engineer with 5 years experience in building scalable software and majors on building APIs. He currently works at Cotta & Cush Limited where he builds enterprise software, in-house products and leads efforts around web architecture and integration. He holds a BSc in Computer Engineering from Obafemi Awolowo University."
+  thumbnailUrl: yemi.jpg
   rockstar: false
   ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://www.meetup.com/GDG-Ibadan/"}
   social: 
     - {name: "twitter", link: "http://twitter.com/yemexx1"}
