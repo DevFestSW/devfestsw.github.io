@@ -56,8 +56,7 @@ bottomNavigationLinks:
  - {link: "http://bit.ly/devfestsw17", text: "Register"}
  - {link: "https://www.papercall.io/devfestsw17", text: "Become a Speaker"}
 rightNavigationButtons:
- - {link: "http://bit.ly/devfestsw17", text: "Register"}
- - {link: "https://www.papercall.io/devfestsw17", text: "Become a Speaker"}
+ - {link: "/schedule", text: "View Schedule"}
 
 # Hero Block
 heroImage: "hero.png"
@@ -66,8 +65,7 @@ eventDate: "November 18, 2017"
 typeoutTextValues: '"", "South-West", "Ibadan", "Nigeria"'
 typeoutFallback: "Season"
 heroButtons:
- - {link: "https://www.papercall.io/devfestsw17", text: "Become a Speaker"}
- - {link: "http://bit.ly/devfestsw17", text: "Register"}
+ - {link: "/schedule", text: "View Schedule"}
 
 # About Block
 aboutTitle: "About GDG DevFest"

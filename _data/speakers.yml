@@ -1,27 +1,27 @@
 - 
   id: 1
-  name: "Zainab"
-  surname: "Ahmed"
-  company: "Konga"
-  title: "Software Engineering Lead"
-  bio: "I love to build things that make people's life just a little bit easier. I love reading. I love clean Code.I currently manage the mobile development team at Konga.com. This covers mobile browsers, Native Android and iOS platforms. I strongly believe the growth of the mobile platform in Africa can be used to effect changes in the continent via creative application development and research. I'm all for collaboration to create value."
-  thumbnailUrl: zainab.jpg
+  name: "Smile"
+  surname: "Egbai"
+  company: ""
+  title: "Software Engineer"
+  bio: "Smile Egbai is a programmer and researcher, who love's building new things, and learning more about the new discoveries in tech and science. Always loves sharing ideas, and anything DC."
+  thumbnailUrl: smile.jpg
   rockstar: true
   social: 
-    - {name: "twitter", link: "http://twitter.com/baniyaz"}
+    - {name: "twitter", link: "http://twitter.com/"}
 - 
   id: 2
-  name: "Ire"
-  surname: "Aderinokun"
-  company: "BigCabal"
-  title: "Designer"
+  name: "Hanson"
+  surname: "Johnson"
+  company: "Start Innovation Hub"
+  title: "CEO"
   bio: "My name is Ire Aderinokun and I am a UI/UX Designer and Front-End Developer. I currently work as Head of Product and Design at Big Cabal Media, publishers of Tech Cabal and Zikoko. I work on a number of different open-source side projects, from themes for the Ghost blogging platform, to apps for the Pebble smartwatch. I also write weekly articles about front-end development on my blog, bitsofcode."
-  thumbnailUrl: ire.jpg
+  thumbnailUrl: hanson.jpg
   rockstar: false
   ribbon: 
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/people/ire-aderinokun"}
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/people/hanson-johnson"}
   social: 
-    - {name: "twitter", link: "http://twitter.com/ireaderinokun"}
+    - {name: "twitter", link: "http://twitter.com/hanson"}
 - 
   id: 17
   name: "Chike"
@@ -35,72 +35,59 @@
     - {name: "twitter", link: "http://twitter.com/"}
 - 
   id: 3
-  name: "Celestine"
-  surname: "Omin"
+  name: "Damilola"
+  surname: "Akapo"
   company: "Andela"
   title: "Senior Technical Consultant"
-  bio: ""
-  thumbnailUrl: celestine_omin.jpg
+  bio: "Currently a Senior Technical Consultant at Andela. Former Senior Software Engineer at Cotta & Cush. Co-founder at Hextremelabs, eChurch.ng and Zatcho. Has been building mobile apps for over 6 years. Sometimes funny, other times just a regular guy."
+  thumbnailUrl: akapo.jpg
   rockstar: true
   social: 
-    - {name: "twitter", link: "https://twitter.com/cyberomin"}
+    - {name: "twitter", link: "https://twitter.com/"}
 - 
   id: 4
-  name: "Faical"
-  surname: "Tchirou"
-  company: "Andela"
-  title: "Software Engineer"
-  bio: "I’m an iOS and Android engineer at Andela. I’m passionate about programming languages, their design and implementation (currently in love with Kotlin and Swift) and I’m in a perpetual quest to find simpler and better ways to build reliable and performant software to solve real world problems and impact people lives."
-  thumbnailUrl: Faical.jpg
+  name: "Peter"
+  surname: "Ekene Eze"
+  company: "Dev.To,DZone"
+  title: "Technical Writer"
+  bio: "Kenny is an Android Developer and technical writer at Dev.to, Medium, and Dzone. He's a public speaker(tech) and Organizer of the Android Nigeria Community. He's a renowned Firebase advocate with a big crush on CloudFirestore."
+  thumbnailUrl: peter.jpg
   rockstar: false
   social: 
-    - {name: "twitter", link: "https://twitter.com/ftchirou"}
+    - {name: "twitter", link: "https://twitter.com/"}
 - 
   id: 5
-  name: "Otemuyiwa"
-  surname: "Prosper"
-  company: "AuthO"
-  title: "Technical Writer"
-  bio: "Prosper is a full stack software engineer and writer who’s worked on biometric, health, financial and developer tools. He currently works with Auth0 as a Technical Writer."
-  thumbnailUrl: prosper.jpg
+  name: "Omolara"
+  surname: "Adejuwon"
+  company: "Lawpavillion"
+  title: "Android & iOS Developer"
+  bio: "Omolara is a Software developer at Lawpavilion, Lagos. She's comfortable developing Android & iOS native apps. She enjoys sharing new knowledge and helping younger folks. She loves Instagram."
+  thumbnailUrl: omolara.jpg
   rockstar: false
-  ribbon: 
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/people/prosper-otemuyiwa"}
   social: 
-    - {name: "twitter", link: "https://twitter.com/unicodeveloper"}
+    - {name: "twitter", link: "https://twitter.com/"}
 - 
   id: 6
-  name: "Segun"
-  surname: "Famisa"
-  company: "Konga"
-  title: "Software Engineer"
-  bio: " "
-  thumbnailUrl: segun.jpg
+  name: "Ayokunle"
+  surname: "Paul"
+  company: ""
+  title: "Android Developer"
+  bio: ""
+  thumbnailUrl: 
   rockstar: false
   social: 
-    - {name: "twitter", link: "http://twitter.com/segunfamisa"}
-- 
-  id: 7
-  name: "Timi"
-  surname: "Ajiboye"
-  company: "HelloWorld"
-  title: "Software Engineer"
-  bio: "I make stuff that work on computers. Full stack x mobile developer at @trygigster. Blogs at http://hellosails.com  (Sails.js tutorials) and http://chunksofco.de ."
-  thumbnailUrl: timi.png
-  rockstar: false
-  social: 
-    - {name: "twitter", link: "http://twitter.com/timigod"}
+    - {name: "twitter", link: "http://twitter.com/"}
 - 
   id: 8
-  name: "Lynda"
-  surname: "Chiwetelu"
-  company: "Hotels.ng"
+  name: "Mishael"
+  surname: "Kama"
+  company: ""
   title: "Software engineer"
   bio: ""
-  thumbnailUrl: lynda.jpg
+  thumbnailUrl: 
   rockstar: false
   social: 
-    - {name: "twitter", link: "http://twitter.com/lyndachiwetelu"}
+    - {name: "twitter", link: "http://twitter.com/"}
 - 
   id: 9
   name: "Moyinoluwa"
@@ -116,15 +103,15 @@
     - {name: "twitter", link: "http://twitter.com/moyheen"}
 - 
   id: 10
-  name: "Kene"
-  surname: "Udeze"
-  company: "Co-Creation Hub"
-  title: "User Experience Designer"
-  bio: "I am a User Experience (UX) designer based in Lagos, Nigeria. I help startups fine-tune their products and lead the product design at CcHUB. I also run USABLE, a community of people (designers, developers, enthusiasts) who are interested in designing usable products. "
-  thumbnailUrl: kene.jpg
+  name: "Abiola"
+  surname: "Ibrahim"
+  company: ""
+  title: "Software Engineer"
+  bio: ""
+  thumbnailUrl: 
   rockstar: false
   social: 
-    - {name: "twitter", link: "http://twitter.com/udezekene"}
+    - {name: "twitter", link: "http://twitter.com/"}
 - 
   id: 11
   name: "Femi"
@@ -132,7 +119,7 @@
   company: "INITS LTD"
   title: "Chief Technical Officer"
   bio: "Femi is Co-Founder and CTO of INITS, a Technology Provider based in Lagos, focused on creating innovative and useful solutions in the unique environment of Nigeria. "
-  thumbnailUrl: dftaiwo.jpg
+  thumbnailUrl: femi.jpg
   rockstar: false
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
@@ -141,25 +128,125 @@
     - {name: "twitter", link: "http://twitter.com/dftaiwo"}
 - 
   id: 12
-  name: "Wale"
-  surname: "Oyediran"
-  company: "Konga"
-  title: "Software engineer"
-  bio: ""
-  thumbnailUrl: oyewale.jpg
+  name: "Gbenro"
+  surname: "Oni"
+  company: "Cotta & Cush Limited"
+  title: "Software Quality Assurance Engineer"
+  bio: "Gbenro Oni is a Software Quality Assurance Engineer at Cotta & Cush Limited. He graduated from the prestigious Obafemi Awolowo University with a Bachelor’s Degree in Computer Science. He loves watching anime and movies. He also loves listening to Electronic Dance Music and Rap. He enjoys critiquing people’s work and his love for quality, is one of the reasons he decided to be a Quality Assurance Engineer."
+  thumbnailUrl: gbenro.jpg
   rockstar: false
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social: 
-    - {name: "twitter", link: "http://twitter.com/waleoyediran"}
+    - {name: "twitter", link: "http://twitter.com/"}
 - 
   id: 13
-  name: "Nosakhare"
-  surname: " Belvi"
+  name: "Isaac"
+  surname: "Orjiewuru Kingdom"
   company: ""
   title: "Software engineer"
-  bio: "Nosakhare Belvi currently works with Appzone Group as a Senior mobile developer. Fascinated by how things works and handling technical task. Loves open source contribution and shares his experiences at http://belvi.xyz"
-  thumbnailUrl: nosa.jpeg
+  bio: ""
+  thumbnailUrl: 
   rockstar: false
   social: 
-    - {name: "twitter", link: "http://twitter.com/Kingsmentor"}
+    - {name: "twitter", link: "http://twitter.com/"}
+- 
+  id: 14
+  name: "David"
+  surname: "Asumu"
+  company: ""
+  title: "Software engineer"
+  bio: ""
+  thumbnailUrl: 
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "http://twitter.com/"}
+- 
+  id: 15
+  name: "Chuka"
+  surname: "Ofili"
+  company: "Delivery Science"
+  title: "Co-founder & Chief Enterprise Architect"
+  bio: "Chuka Ofili is currently the Co-Founder & Chief Enterprise Architect of supply chain technology startup, Delivery Science with a career in software development that spans 14 years, starting in 2003 when he occupied the role of CEO/Software Architect at Micro-Smart Solutions Ltd. "
+  thumbnailUrl: 
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "http://twitter.com/"}
+- 
+  id: 16
+  name: "Sharon"
+  surname: "Georgewill"
+  company: ""
+  title: "Product Designer"
+  bio: ""
+  thumbnailUrl: 
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "http://twitter.com/"}
+- 
+  id: 18
+  name: "Theodora"
+  surname: "Isola"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: 
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "http://twitter.com/"}
+- 
+  id: 19
+  name: "Olaoluwa"
+  surname: "Usman"
+  company: ""
+  title: "Software Developer"
+  bio: "Olaoluwa is a software developer currently based in Lagos and has worked in various companies. She has extensive experience with web development – from client side to server side. One of the projects she is exploring and to share with the community, is using mobile web development creating, managing, measuring and optimizing mobile websites."
+  thumbnailUrl: olaoluwa.jpg
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "http://twitter.com/"}
+- 
+  id: 20
+  name: "Abayomi"
+  surname: "Oyaleke"
+  company: ""
+  title: ""
+  bio: "As a Google partner with a background in Software and Business Development,  Ayobami has founded and co founded a numerous number of Solution-Oriented products in Nigeria & Africa. A full-stack developer Intern at Coding faculty, USA, 2013, Remote Developer and Data analyst at Nitonet networks, India in 2014. He currently consults for notable number of small-medium businesses in the eco-system. Former Product Manager at MIT Nigeria, Former Project Manager at Under35, Director of Analytics at Ajo Africa.  
+He is currently the Co founder & CEO of Placements.ng, a search platform for Graduate & Undergraduate Internship Programs in Africa, Scaling from Nigeria. 
+Ayobami, in his early 20s has gathered a lot of experiences locally and internationally ranging from business, technology, startups, to consumer psychology. 
+"
+  thumbnailUrl: ayobami.jpg
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "http://twitter.com/"}
+- 
+  id: 21
+  name: "Aniedi"
+  surname: "Udo Ubong"
+  company: "Google"
+  title: "Developers Ecosystem Manager"
+  bio: ""
+  thumbnailUrl: 
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "http://twitter.com/"}
+- 
+  id: 22
+  name: "Adegoke"
+  surname: "Obasa"
+  company: "Cotta & Cush Ltd."
+  title: "Software Engineer"
+  bio: ""
+  thumbnailUrl: 
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "http://twitter.com/"}
+- 
+  id: 23
+  name: "Adeyemi"
+  surname: "Olaoye"
+  company: "Cotta & Cush Ltd."
+  title: "Software Developer"
+  bio: ""
+  thumbnailUrl: 
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "http://twitter.com/"}
