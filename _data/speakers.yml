@@ -13,26 +13,15 @@
   id: 2
   name: "Hanson"
   surname: "Johnson"
-  company: "Start Innovation Hub"
-  title: "CEO"
-  bio: "My name is Ire Aderinokun and I am a UI/UX Designer and Front-End Developer. I currently work as Head of Product and Design at Big Cabal Media, publishers of Tech Cabal and Zikoko. I work on a number of different open-source side projects, from themes for the Ghost blogging platform, to apps for the Pebble smartwatch. I also write weekly articles about front-end development on my blog, bitsofcode."
+  company: "GDG Community, Nigeria"
+  title: "Country Mentor"
+  bio: "Hanson Johnson is a Nigerian technology entrepreneur with a dream to save the world with a click. He is the Country Mentor to GDGs in Nigeria and the founder and CEO Start Innovation Hub."
   thumbnailUrl: hanson.jpg
   rockstar: false
   ribbon: 
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/people/hanson-johnson"}
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social: 
-    - {name: "twitter", link: "http://twitter.com/hanson"}
-- 
-  id: 17
-  name: "Chike"
-  surname: "Mgbemena"
-  company: "Pacent Technologies"
-  title: "Software Engineer"
-  bio: "Chike is a Software Developer at Pacent Technologies, mostly focused on Android and PHP development. A Tuts+ Instructor, an Ex-Google Student Ambassador and an Ampion Global Alumnus. Love to swim and my interest includes startups, politics, clean codes, robots, and IOT."
-  thumbnailUrl: chike.jpg
-  rockstar: false
-  social: 
-    - {name: "twitter", link: "http://twitter.com/"}
+    - {name: "twitter", link: "http://twitter.com/nextdeegits"}
 - 
   id: 3
   name: "Damilola"
@@ -48,7 +37,7 @@
   id: 4
   name: "Peter"
   surname: "Ekene Eze"
-  company: "Dev.To,DZone"
+  company: "Dev.To, DZone"
   title: "Technical Writer"
   bio: "Kenny is an Android Developer and technical writer at Dev.to, Medium, and Dzone. He's a public speaker(tech) and Organizer of the Android Nigeria Community. He's a renowned Firebase advocate with a big crush on CloudFirestore."
   thumbnailUrl: peter.jpg
@@ -59,7 +48,7 @@
   id: 5
   name: "Omolara"
   surname: "Adejuwon"
-  company: "Lawpavillion"
+  company: "Law Pavillion"
   title: "Android & iOS Developer"
   bio: "Omolara is a Software developer at Lawpavilion, Lagos. She's comfortable developing Android & iOS native apps. She enjoys sharing new knowledge and helping younger folks. She loves Instagram."
   thumbnailUrl: omolara.jpg
@@ -73,14 +62,14 @@
   company: ""
   title: "Android Developer"
   bio: ""
-  thumbnailUrl: 
+  thumbnailUrl: ayokunle.jpg
   rockstar: false
   social: 
     - {name: "twitter", link: "http://twitter.com/"}
 - 
   id: 8
-  name: "Mishael"
-  surname: "Kama"
+  name: ""
+  surname: ""
   company: ""
   title: "Software engineer"
   bio: ""
@@ -92,11 +81,11 @@
   id: 9
   name: "Moyinoluwa"
   surname: "Adeyemi"
-  company: "Swifta Systems, GDG Lagos"
-  title: "Software engineer"
+  company: "Off Grid Electric, GDG Lagos"
+  title: "Android Developer"
   bio: ""
   thumbnailUrl: moyin.jpeg
-  rockstar: false
+  rockstar: true
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social: 
@@ -105,13 +94,13 @@
   id: 10
   name: "Abiola"
   surname: "Ibrahim"
-  company: ""
+  company: "Reconfigure.io"
   title: "Software Engineer"
-  bio: ""
-  thumbnailUrl: 
-  rockstar: false
+  bio: "Previously of Konga and Andela and currently building next generation PaaS at Reconfigure.io. Abiola Ibrahim is versatile Software Engineer with experience with cloud services. One of the few that interact with MacOS, Linux and Windows on a daily basis and can survive the two extremes of development environment, full terminal without mouse interaction and full GUI without a terminal. Abiola is one of the most popular Go programmers around and has contributed to some popular Go projects. He lived and schooled in Ibadan and can not wait way to give you a good experience at the first DevFest coming to Ibadan."
+  thumbnailUrl: abiola.jpg
+  rockstar: true
   social: 
-    - {name: "twitter", link: "http://twitter.com/"}
+    - {name: "twitter", link: "http://twitter.com/abiosoft"}
 - 
   id: 11
   name: "Femi"
@@ -120,7 +109,7 @@
   title: "Chief Technical Officer"
   bio: "Femi is Co-Founder and CTO of INITS, a Technology Provider based in Lagos, focused on creating innovative and useful solutions in the unique environment of Nigeria. "
   thumbnailUrl: femi.jpg
-  rockstar: false
+  rockstar: true
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
     - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/people/femi-taiwo"}  
@@ -136,22 +125,22 @@
   thumbnailUrl: gbenro.jpg
   rockstar: false
   social: 
-    - {name: "twitter", link: "http://twitter.com/"}
+    - {name: "twitter", link: "http://twitter.com/Gbensky"}
 - 
   id: 13
-  name: "Isaac"
-  surname: "Orjiewuru Kingdom"
+  name: "Kingdom"
+  surname: "Orjiewuru"
   company: ""
   title: "Software engineer"
   bio: ""
   thumbnailUrl: 
   rockstar: false
   social: 
-    - {name: "twitter", link: "http://twitter.com/"}
+    - {name: "twitter", link: "http://twitter.com/kingisaac95"}
 - 
   id: 14
   name: "David"
-  surname: "Asumu"
+  surname: "Asamu"
   company: ""
   title: "Software engineer"
   bio: ""
@@ -166,10 +155,10 @@
   company: "Delivery Science"
   title: "Co-founder & Chief Enterprise Architect"
   bio: "Chuka Ofili is currently the Co-Founder & Chief Enterprise Architect of supply chain technology startup, Delivery Science with a career in software development that spans 14 years, starting in 2003 when he occupied the role of CEO/Software Architect at Micro-Smart Solutions Ltd. "
-  thumbnailUrl: 
+  thumbnailUrl: chuka.jpg
   rockstar: false
   social: 
-    - {name: "twitter", link: "http://twitter.com/"}
+    - {name: "twitter", link: "http://twitter.com/chukaofili"}
 - 
   id: 16
   name: "Sharon"
@@ -207,7 +196,7 @@
   id: 20
   name: "Abayomi"
   surname: "Oyaleke"
-  company: ""
+  company: "Placements.ng"
   title: ""
   bio: "As a Google partner with a background in Software and Business Development,  Ayobami has founded and co founded a numerous number of Solution-Oriented products in Nigeria & Africa. A full-stack developer Intern at Coding faculty, USA, 2013, Remote Developer and Data analyst at Nitonet networks, India in 2014. He currently consults for notable number of small-medium businesses in the eco-system. Former Product Manager at MIT Nigeria, Former Project Manager at Under35, Director of Analytics at Ajo Africa.  
 He is currently the Co founder & CEO of Placements.ng, a search platform for Graduate & Undergraduate Internship Programs in Africa, Scaling from Nigeria. 
@@ -227,26 +216,30 @@ Ayobami, in his early 20s has gathered a lot of experiences locally and internat
   thumbnailUrl: 
   rockstar: false
   social: 
-    - {name: "twitter", link: "http://twitter.com/"}
+    - {name: "twitter", link: "http://twitter.com/aniediudo"}
 - 
   id: 22
   name: "Adegoke"
   surname: "Obasa"
-  company: "Cotta & Cush Ltd."
-  title: "Software Engineer"
+  company: "GDG Ibadan, Cotta&Cush Limited"
+  title: "Lead Organizer"
   bio: ""
   thumbnailUrl: 
   rockstar: false
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social: 
-    - {name: "twitter", link: "http://twitter.com/"}
+    - {name: "twitter", link: "http://twitter.com/goke_"}
 - 
   id: 23
   name: "Adeyemi"
   surname: "Olaoye"
-  company: "Cotta & Cush Ltd."
-  title: "Software Developer"
-  bio: ""
+  company: "GDG Ibadan, Cotta&Cush Limited"
+  title: "Co-organizer"
+  bio: "Adeyemi Olaoye is a co-organizer at GDG Ibadan. He is also a senior software engineer with 5 years experience in building scalable software and majors on building APIs. He currently works at Cotta&Cush Limited where he builds enterprise software, in-house products and leads efforts around web architecture and integration. He holds a BSc in Computer Engineering from Obafemi Awolowo University."
   thumbnailUrl: 
   rockstar: false
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social: 
-    - {name: "twitter", link: "http://twitter.com/"}
+    - {name: "twitter", link: "http://twitter.com/yemexx1"}
