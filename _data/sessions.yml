@@ -1,21 +1,88 @@
 -
   id: 307
-  title: "Arrival and Registration"
+  title: "Arrival, Intro Videos, Red Carpet"
   place: "Hall"
   service: true
   description: "The best time to talk with speakers and attendees"
+-
+  id: 308
+  title: "Welcome Address"
+  speakers: [23]
+  place: "Hall"
+  subtype: workshop
+  description: "The best time to talk with speakers and attendees"
+-
+  id: 309
+  title: "Devfest!!!"
+  speakers: [21]
+  place: "Hall"
+  description: ""
+-
+  id: 311
+  title: "GDG: Past, Present and Future"
+  speakers: [2]
+  place: "Hall"
+  subtype: workshop
+-
+  id: 312
+  title: "Benefitting from the community"
+  speakers: [11]
+  place: "Hall"
+  subtype: workshop
+-
+  id: 313
+  title: "WTM"
+  speakers: [19]
+  place: "Hall"
+  description: ""
+-
+  id: 314
+  title: "The Role of Women in Tech Industry"
+  place: "Hall"
+  speakers: [18]
+  description: "How to get started to be a Women in Tech"
+-
+  id: 315
+  title: "iBridge Hub"
+  place: "Hall"
+  service: true
+  description: "Sponsors Speech"
+-
+  id: 316
+  title: "ALC 2.0"
+  place: "Hall"
+  service: true
+  description: "The best time to talk with speakers and attendees"
+-
+  id: 317
+  title: "OYSG"
+  place: "Hall"
+  service: true
+  description: "Sponsors Speech"
+-
+  id: 318
+  title: "Placements"
+  place: "Hall"
+  speakers: [20]
+  description: ""
+-
+  id: 319
+  title: "Tracks Intro / Light Refreshments"
+  place: "Hall"
+  service: true
+  description: ""
 -
   id: 502
   title: "Keynote Address (Android)"
   place: "COMING SOON"
   subtype: Keynote
-  speakers: [1]
+  speakers: [9]
 -
   id: 505
   title: "Keynote Address (Web)"
   subtype: Keynote
   place: "COMING SOON"
-  speakers: [3]
+  speakers: [15]
 -
   id: 503
   title: "Lunch Break"
@@ -23,15 +90,15 @@
   service: true
 -
   id: 510
-  title: "Fireside Chat"
+  title: "Design Sprint"
   description: "Ask the speakers anything"
   place: "Dining room"
-  service: true
+  speakers: [16]
 -
   id: 511
   title: "Closing Address/Vote of Thanks"
   subtype: workshop
-  speakers: [11,12]
+  speakers: [22]
 -
   id: 509
   title: "CODELABS"
@@ -40,74 +107,88 @@
 
 -
   id: 001
-  title: "Introduction To Android's Model View Presenter"
-  description: "This section will cover the fundamentals of MVP architecture pattern"
+  title: "Kotlin"
+  description: ""
   subtype: workshop
-  speakers: [17]
+  speakers: []
   complexity: "Intermediate"
 -
   id: 002
-  title: "Progressive Web Apps"
-  description: "Building apps that are progressive"
+  title: "Firebase"
+  description: ""
   subtype: workshop
-  speakers: [2]
+  speakers: []
   complexity: "Intermediate" 
 -
   id: 003
-  title: "Reactive Programming on Android with RxJava"
-  description: "In-Depth Look at Reactive programming on Android"
+  title: "Machine Learning"
+  description: ""
   subtype: presentation
-  speakers: [4]
+  speakers: []
   complexity: "Intermediate" 
 -
   id: 004
-  title: "Firebase for the Web"
+  title: "Cloud"
   description: "Introduction to Firebase on the Web"
   subtype: presentation
-  speakers: [5]
+  speakers: []
   complexity: "Intermediate"
 -
   id: 005
-  title: "What's new in Firebase"
-  description: "The latest on Firebase for Android"
+  title: "Payments"
+  description: ""
   subtype: presentation
-  speakers: [6]
+  speakers: []
   complexity: "Beginner"
 -
   id: 006
-  title: "SOLID Principles"
+  title: "Databases"
   description: ""
   subtype: presentation
-  speakers: [7]
+  speakers: []
   complexity: "Intermediate"
 -
   id: 007
-  title: "Polymer"
+  title: "PWA"
   description: "Polymer is an open-source JavaScript library for building web applications using web components"
   subtype: presentation
-  speakers: [8]
+  speakers: []
   complexity: "Beginner"
 -
   id: 506
-  title: "Machine Learning for Android Developers"
+  title: "Architecture"
   description: ""
   subtype: presentation
-  speakers: [9]
+  speakers: []
   complexity: "Intermediate"
 
 -
   id: 010
-  title: "Designing for Humans"
+  title: "Testing"
   description: ""
   subtype: presentation
-  speakers: [10]
+  speakers: []
   complexity: "Intermediate"
 -
   id: 011
-  title: "Google Cloud Storage - Big query"
+  title: "Machine Learning"
   description: " "
   subtype: presentation
-  speakers: [13]
+  speakers: []
+  complexity: "Beginner" 
+-
+  id: 012
+  title: "Performance"
+  description: " "
+  subtype: presentation
+  speakers: []
+  complexity: "Beginner" 
+-
+  id: 013
+  title: "Design"
+  description: " "
+  subtype: presentation
+  speakers: []
   complexity: "Beginner" 
 #-
 #  id: 203
