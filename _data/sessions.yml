@@ -31,7 +31,7 @@
   subtype: workshop
 -
   id: 313
-  title: "WTM"
+  title: "Women Techmakers"
   speakers: [19]
   place: "Hall"
   description: ""
@@ -52,7 +52,7 @@
   title: "ALC 2.0"
   place: "Hall"
   service: true
-  description: "The best time to talk with speakers and attendees"
+  description: ""
 -
   id: 317
   title: "OYSG"
@@ -90,9 +90,9 @@
   service: true
 -
   id: 510
-  title: "Design Sprint"
-  description: "Ask the speakers anything"
-  place: "Dining room"
+  title: "From idea to product with Design Sprint"
+  description: ""
+  place: "Hall"
   speakers: [16]
 -
   id: 511
@@ -107,10 +107,10 @@
 
 -
   id: 001
-  title: "Kotlin"
+  title: "Speedy development, cleaner code with Kotlin"
   description: ""
   subtype: workshop
-  speakers: []
+  speakers: [1]
   complexity: "Intermediate"
 -
   id: 002
@@ -122,16 +122,16 @@
 -
   id: 003
   title: "Machine Learning"
-  description: ""
+  description: "Innovating with Google Vision APIs: A case for adKandi"
   subtype: presentation
-  speakers: []
+  speakers: [3]
   complexity: "Intermediate" 
 -
   id: 004
-  title: "Cloud"
-  description: "Introduction to Firebase on the Web"
+  title: "Leveraging Google Cloud for personal development"
+  description: ""
   subtype: presentation
-  speakers: []
+  speakers: [10]
   complexity: "Intermediate"
 -
   id: 005
@@ -139,83 +139,54 @@
   description: ""
   subtype: presentation
   speakers: []
-  complexity: "Beginner"
+  complexity: "Intermediate"
 -
   id: 006
-  title: "Databases"
+  title: "Getting started with Room"
   description: ""
   subtype: presentation
-  speakers: []
+  speakers: [5]
   complexity: "Intermediate"
 -
   id: 007
-  title: "PWA"
-  description: "Polymer is an open-source JavaScript library for building web applications using web components"
-  subtype: presentation
-  speakers: []
-  complexity: "Beginner"
--
-  id: 506
-  title: "Architecture"
+  title: "Getting everybody online with Progressive Web Apps"
   description: ""
   subtype: presentation
-  speakers: []
+  speakers: [13]
+  complexity: "Intermediate"
+-
+  id: 506
+  title: "ANDROID ARCHITECTURE COMPONENTS: Dawn of a new era in Android development"
+  description: ""
+  subtype: presentation
+  speakers: [6]
   complexity: "Intermediate"
 
 -
   id: 010
-  title: "Testing"
+  title: "An easy approach to automated testing on the web using CodeceptJS"
   description: ""
   subtype: presentation
-  speakers: []
+  speakers: [12]
   complexity: "Intermediate"
 -
   id: 011
-  title: "Machine Learning"
-  description: " "
+  title: "Building Conversational Agents with Dialogflow (API.ai)"
+  description: ""
   subtype: presentation
-  speakers: []
-  complexity: "Beginner" 
+  speakers: [14]
+  complexity: "Intermediate"
 -
   id: 012
-  title: "Performance"
-  description: " "
+  title: "Optimizing Applications Performance ~ Advanced Practices"
+  description: ""
   subtype: presentation
-  speakers: []
-  complexity: "Beginner" 
+  speakers: [4]
+  complexity: "Intermediate"
 -
   id: 013
   title: "Design"
-  description: " "
+  description: ""
   subtype: presentation
   speakers: []
-  complexity: "Beginner" 
-#-
-#  id: 203
-#  title: "Service Workers"
-#  description: ""
-#  subtype: presentation
-#  speakers: [12]
-#  complexity: "Intermediate" 
-#-
-#  id: 204
-#  title: "UI / UX"
-#  description: "Building great user experiences on the web"
-#  subtype: presentation
-#  speakers: [2]
-#  complexity: "Intermediate"
-#-
-#  id: 205
-#  title: "Introduction to docker containers"
-#  description: "Containers for better development/deployment"
-#  subtype: presentation
-#  speakers: [4]
-#  complexity: "Expert"
-#-
-#  id: 206
-#  title: "Using Material Design Lite"
-#  description: ""
-#  subtype: workshop
-#  speakers: [9]
-#  complexity: "Beginner"
-
+  complexity: "Beginner"
