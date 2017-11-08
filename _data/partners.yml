@@ -7,6 +7,8 @@
   group: "With support of"
   elements:
     - {name: "iBridge Hub", description: "iBridge Hub", link: "http://www.ibridgehub.com", imageUrl: "ibridge-hub-logo.jpeg", width: "200px"}
+    - {name: "Africa's Talking", description: "Africa's Talking", link: "https://africastalking.com/", imageUrl: "africas-talking.png", width: "200px"}
+    - {name: "Oyo State Government", description: "Oyo State Government (OYSG)", link: "https://oyostate.gov.ng/", imageUrl: "oysg-logo.jpg", width: "200px"}
 -
   group: "Event Planners"
   elements:
