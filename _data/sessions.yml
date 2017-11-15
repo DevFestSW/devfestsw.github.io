@@ -114,10 +114,10 @@
   complexity: "Intermediate"
 -
   id: 002
-  title: "Firebase"
+  title: "Firebase Authentication - The secure way"
   description: ""
   subtype: workshop
-  speakers: []
+  speakers: [24]
   complexity: "Intermediate" 
 -
   id: 003
@@ -138,7 +138,7 @@
   title: "Payments"
   description: ""
   subtype: presentation
-  speakers: []
+  speakers: [25]
   complexity: "Intermediate"
 -
   id: 006
