@@ -144,7 +144,7 @@
   company: ""
   title: "Software engineer"
   bio: ""
-  thumbnailUrl: 
+  thumbnailUrl: david.jpg
   rockstar: false
   social: 
     - {name: "twitter", link: "http://twitter.com/"}
@@ -213,7 +213,7 @@ Ayobami, in his early 20s has gathered a lot of experiences locally and internat
   company: "Google"
   title: "Developers Ecosystem Manager"
   bio: ""
-  thumbnailUrl: 
+  thumbnailUrl: aniedi.jpg
   rockstar: true
   social: 
     - {name: "twitter", link: "http://twitter.com/aniediudo"}
@@ -243,3 +243,25 @@ Ayobami, in his early 20s has gathered a lot of experiences locally and internat
     - {abbr: "GDG", title: "Google Developer Group", url: "https://www.meetup.com/GDG-Ibadan/"}
   social: 
     - {name: "twitter", link: "http://twitter.com/yemexx1"}
+-
+  id: 24
+  name: "Wisdom"
+  surname: "Arerosuoghene"
+  company: "Rudigo"
+  title: "Founder & CEO"
+  bio: "Change Engineer. Solution Architect. Developer and Teacher. Founder and CEO @ Rudigo - raising world class developers from scratch. Self-acclaimed wide stack developer, proficient in over 10 modern programming languages with robust experience building applications for the web, windows desktop and the top 4 mobile operating systems."
+  thumbnailUrl: wisdom.png
+  rockstar: false
+  social:
+    - {name: "twitter", link: "http://twitter.com/itswisdomagain"}
+-
+  id: 25
+  name: "Stephen"
+  surname: "Afam-Osemene"
+  company: "Africa's Talking, Nigeria"
+  title: "Developer Relations Lead"
+  bio: "Stephen Afam-Osemene is currently the Developer Relations Lead for Africa's Talking Nigeria. Africa's Talking is a technology company that provides developers access to telecommunication  infrastructure on a unified API platform, making it the go-to platform for developers in Africa that helps make ideas come to life, with ease. He is a graduate of Mechanical Engineering and has been programming for over 4 years."
+  thumbnailUrl: stephen.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "http://twitter.com/StephenAfamO"}
